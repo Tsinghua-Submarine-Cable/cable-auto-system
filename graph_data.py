@@ -61,7 +61,7 @@ if __name__=='__main__':
             relationship = Relationship(cable_node, 'landing_at', lp_node, probibility=1.0)
             graph.create(relationship)
 
-        onwers = x['owners'].split(' ,')
+        onwers = x['owners'].split(', ')
         for owner in onwers:
             owner_node = Node('owner', name=owner)
             graph.merge(owner_node, 'owner', 'name')
@@ -69,7 +69,7 @@ if __name__=='__main__':
             graph.create(relationship)
 
         if x['suppliers'] is not None:
-            suppliers = x['suppliers'].split(' ,')
+            suppliers = x['suppliers'].split(', ')
             for supplier in suppliers:
                 supplier_node = Node('supplier', name=supplier)
                 graph.merge(supplier_node, 'supplier', 'name')
