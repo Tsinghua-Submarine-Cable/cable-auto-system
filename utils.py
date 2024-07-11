@@ -3,6 +3,11 @@ import csv
 import logging
 from datetime import datetime
 
+proxies = {
+    'http': 'http://127.0.0.1:10809',
+    'https': 'https://127.0.0.1:10809'
+}
+
 
 def dump_file(row, path):
     open_file = open(path, 'a', encoding='utf-8')
@@ -66,4 +71,5 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
-formatted_date = get_formatted_date()
+# formatted_date = get_formatted_date()
+formatted_date = '2024-07-10'

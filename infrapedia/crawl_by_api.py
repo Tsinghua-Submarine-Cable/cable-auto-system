@@ -6,8 +6,6 @@ import os
 import requests
 import time
 from utils import *
-from download_pbf import download_pbf
-from get_eol_from_pbf import get_eol_from_pbf
 from tqdm import tqdm
 
 name_map = dict()
@@ -22,21 +20,13 @@ def load_name_map():
     open_file.close()
 
 
-def load_eol_map():
-    global eol_map
-    open_file = open('./data_' + formatted_date + '/id_eol.csv', 'r', encoding='utf-8')
-    reader = csv.reader(open_file)
-    for row in reader:
-        eol_map[row[0]] = row[1]
-    open_file.close()
-
-
 def get_by_api():
     path = './data/data_' + formatted_date
     create_path_if_not_exists(os.path.join(path, 'cable'))
     while True:
         crawled_set = set()
         cable_info_path = os.path.join(path, 'cable_info.json')
+        cable_csv_path = os.path.join(path, 'cable_info.csv')
         no_data_cable_path = os.path.join(path, 'no_info_cable_info.json')
 
         if os.path.exists(cable_info_path):
@@ -95,11 +85,13 @@ def get_by_api():
                 continue
         f.close()
 
-    get_eol_from_pbf()
     load_name_map()
-    load_eol_map()
 
     f = open(cable_info_path, 'r', encoding='utf-8')
+    os.remove(cable_csv_path)
+    header = ['telegeography_name', 'name', 'status', 'length', 'rfs', 'design_capacity', 'fiber_pairs',
+              'lit_capacity', 'landing_points', 'facilities', 'owners', 'known_users', 'url']
+    dump_file(header, cable_csv_path)
     for line in f.readlines():
         obj = json.loads(line)
         _id = obj['_id']
@@ -139,12 +131,10 @@ def get_by_api():
             known_users.append(t['name'])
         known_users = json.dumps(known_users)
         more_information = json.dumps(obj['urls'])
-        row = [standard_name, infra_name, status, length, rfs, eol, design_capacity, fiber_pairs, lit_capacity, cls,
-               facilities,
-               owners, known_users, more_information]
-
+        row = [standard_name, infra_name, status, length, rfs, design_capacity, fiber_pairs, lit_capacity, cls,
+               facilities, owners, known_users, more_information]
         print(row)
-        dump_file(row, cable_info_path)
+        dump_file(row, cable_csv_path)
 
 if __name__ == '__main__':
     get_by_api()

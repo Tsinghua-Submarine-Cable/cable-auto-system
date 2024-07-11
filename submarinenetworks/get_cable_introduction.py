@@ -19,26 +19,28 @@ def get_cable_introduction():
     data = json.load(open(os.path.join(path, 'cable_links.json'), 'r'))
 
     for cable in data:
-        # open the page
-        print('done')
-        cable_name = cable['cable_name'].replace('/', '-')
-        print(cable['cable_name'], end=' ')
-        url = cable['href']
-        browser.get(url)
-        cable_intro = browser.find_element(by=By.CLASS_NAME, value='content-category')
-        time.sleep(2)
-        title = cable_intro.find_element(by=By.TAG_NAME, value='h2').text
-        content_div = cable_intro.find_element(by=By.CLASS_NAME, value='category-desc').find_elements(by=By.TAG_NAME,
-                                                                                                      value='p')
-        content = ''
-        for p in content_div:
-            content += p.text + '\n'
+        try:
+            # open the page
+            print('done')
+            cable_name = cable['cable_name'].replace('/', '-')
+            print(cable['cable_name'], end=' ')
+            url = cable['href']
+            browser.get(url)
+            cable_intro = browser.find_element(by=By.CLASS_NAME, value='content-category')
+            time.sleep(2)
+            title = cable_intro.find_element(by=By.TAG_NAME, value='h2').text
+            content_div = cable_intro.find_element(by=By.CLASS_NAME, value='category-desc').find_elements(by=By.TAG_NAME,
+                                                                                                          value='p')
+            content = ''
+            for p in content_div:
+                content += p.text + '\n'
 
-        dic = {'title': title, 'content': content}
-        f = open(os.path.join(path, 'cable_introduction', cable_name + '.json'), 'w', encoding='UTF-8')
-        f.write(json.dumps(dic) + '\n')
-        f.close()
-
+            dic = {'title': title, 'content': content}
+            f = open(os.path.join(path, 'cable_introduction', cable_name + '.json'), 'w', encoding='UTF-8')
+            f.write(json.dumps(dic) + '\n')
+            f.close()
+        except Exception as e:
+            continue
 
 if __name__ == '__main__':
     get_cable_introduction()

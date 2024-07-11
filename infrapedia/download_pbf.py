@@ -37,6 +37,8 @@ def get_all_pbf():
         for x in range(0, 4):
             for y in range(0, 3):
                 try:
+                    if os.path.exists(os.path.join(path, 'pbf','{}-{}-{}.pbf'.format(zoom, x, y))):
+                        continue
                     print('Downloading {}-{}-{}.pbf'.format(zoom, x, y))
                     download_pbf(format_pbf_url(zoom, x, y), os.path.join(path, 'pbf', '{}-{}-{}.pbf'.format(zoom, x, y)))
                 except Exception as e:

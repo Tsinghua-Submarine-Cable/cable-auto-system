@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Yang Li
-# @Date:   2023-09-17 00:15:56
-# @Last Modified by:   Yang Li
-# @Last Modified time: 2023-09-17 00:35:17
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select

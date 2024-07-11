@@ -1,0 +1,26 @@
+You are tasked with creating a detailed and structured JSON object from an article or summary text about a submarine cable, if you can't find some data, set its value as null.
+The JSON object should have the following structure and fields:
+
+- name: Name of the submarine cable
+- length_km: The length of the cable in kilometers
+- service_launch_date: The date when the service was launched
+- rfs_year: The year the service was launched
+- total_landing_points_number: The total number of landing points
+- landing_points: A list of landing points
+- total_connected_countries_number: The total number of connected countries
+- connected_countries: A list of connected countries
+- owners: A list of owners of the cable
+- suppliers: A list of suppliers involved
+- total_fiber_pairs: Total number of fiber pairs
+- capacity_per_fiber: The capacity per fiber in Tbps
+- design_capacity: The design capacity in Gbps
+- initial_countries_connected: The initial number of countries connected
+- expected_completion: The expected completion date
+- future_landing_points: A list of future landing points
+- objective_or_purpose: The objective or purpose of the cable
+- current_status: The current status of the cable
+- connected_data_centers: A list of connected data centers
+- other: Any other relevant information about the cable
+
+Please read the article/summary below and create a JSON object with as many details as available from the text.
+

@@ -16,11 +16,20 @@ def insert_mongo():
 
     my_col.delete_many({})
 
-    fp = open(os.path.join('data_' + formatted_date, "cable_info.csv"), "r", encoding="utf-8")
+    fp = open(os.path.join('data', 'data_' + formatted_date, "cable_info.csv"), "r", encoding="utf-8")
     reader = csv.DictReader(fp)
     for row in reader:
         row['lit_capacity'] = json.loads(row['lit_capacity'])
         row['landing_points'] = json.loads(row['landing_points'])
+        new_lps = []
+        for lp in row['landing_points']:
+            lp = lp.replace(',  ', ', ')
+            dic = {
+                'name': lp,
+                'country': lp.split(', ')[-1]
+            }
+            new_lps.append(dic)
+        row['landing_points'] = new_lps
         row['facilities'] = json.loads(row['facilities'])
         row['owners'] = json.loads(row['owners'])
         row['known_users'] = json.loads(row['known_users'])

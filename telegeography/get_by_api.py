@@ -5,14 +5,9 @@ import os
 import requests
 import time
 from datetime import datetime
-from config import *
+from telegeography.config import *
 from utils import *
 def get_telegeography_by_api():
-    proxies = {
-        'http': 'http://127.0.0.1:10809',
-        'https': 'https://127.0.0.1:10809'
-    }
-
     urls = ['https://www.submarinecablemap.com/api/v3/cable/cable-geo.json',
                 'https://www.submarinecablemap.com/api/v3/cable/all.json',
                 'https://www.submarinecablemap.com/api/v3/search.json',
