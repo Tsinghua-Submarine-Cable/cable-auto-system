@@ -6,3 +6,5 @@ from submarinenetworks.get_station_article_links import get_station_article_link
 from submarinenetworks.get_station_article import get_station_article
 from submarinenetworks.get_article_links import get_article_links
 from submarinenetworks.get_station_links import get_station_links
+from submarinenetworks.station_ai_extract import station_ai_extract
+
