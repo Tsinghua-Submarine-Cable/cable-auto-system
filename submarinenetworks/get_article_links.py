@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: Yang Li
-# @Date:   2023-09-17 00:15:56
-# @Last Modified by:   Yang Li
-# @Last Modified time: 2023-09-17 00:35:17
 import json
 import time
 
@@ -10,16 +5,19 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+from utils import *
 
 
 def get_article_links():
+    create_path_if_not_exists(os.path.join('data', 'data_' + formatted_date, 'article_links'))
+
     # configurations of webpage, if it does not need to show
     option = webdriver.ChromeOptions()
     option.add_argument("headless")
     browser = webdriver.Chrome(options=option)
 
     # links of all cable systems are in cable-links.json
-    data = json.load(open('./data/cable_links.json', 'r'))
+    data = json.load(open(os.path.join('./data', 'data_' + formatted_date, 'cable_links.json'), 'r'))
 
     for cable in data:
         # open the page
@@ -71,7 +69,7 @@ def get_article_links():
                 break
         df = pd.DataFrame({'title': title, 'href': link})
         # print(df.head())
-        df.to_csv(cable_name + '.csv', mode='w', index=False)
+        df.to_csv(os.path.join('data', 'data_' + formatted_date, 'article_links', cable_name + '.csv'), mode='w', index=False)
 
 
 if __name__ == '__main__':

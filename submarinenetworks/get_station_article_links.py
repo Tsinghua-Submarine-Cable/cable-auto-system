@@ -1,30 +1,37 @@
+import os.path
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import time
 import json
 import pandas as pd
+from utils import *
 
 
 def get_station_article_links():
+    create_path_if_not_exists('./data/' + 'data_' + formatted_date + '/station-article-links/')
+
     # configurations of webpage, if it does not need to show
     option = webdriver.ChromeOptions()
     option.add_argument("headless")
     browser = webdriver.Chrome(options=option)
 
     # links of all cable systems are in cable-links.json
-    data = json.load(open('./data/station-of-country-links.json', 'r'))
+    data = json.load(open(os.path.join('data', 'data_' + formatted_date, 'station-of-country-links.json'),  'r'))
 
     for station in data:
         # open the page
         print('done')
-        cable_name = station['country_name'].replace('/', '-')
+        lp_name = station['country_name'].replace('/', '-')
         print(station['country_name'], end=' ')
         url = station['href']
         browser.get(url)
-        number = browser.find_element(By.ID, 'limit')
-        select = Select(number)
-        select.select_by_value("0")
+        try:
+            number = browser.find_element(By.ID, 'limit')
+            select = Select(number)
+            select.select_by_value("100")
+        except Exception as e:
+            continue
         time.sleep(2)
         title = []
         link = []
@@ -34,7 +41,7 @@ def get_station_article_links():
                 tables = browser.find_elements(By.TAG_NAME, 'table')
                 table = None
                 for item in tables:
-                    if item.get_attribute('class') == 'category table table-striped table-bordered table-hover':
+                    if item.get_attribute('class') == 'com-content-category__table category table table-striped table-bordered table-hover':
                         table = item
                         break
                     else:
@@ -65,7 +72,7 @@ def get_station_article_links():
                 break
         df = pd.DataFrame({'title': title, 'href': link})
         # print(df.head())
-        df.to_csv('./data/station-article-links/' + cable_name + '.csv', mode='w', index=False)
+        df.to_csv('./data/' + 'data_' + formatted_date + '/station-article-links/' + lp_name + '.csv', mode='w', index=False)
 
 
 if __name__ == '__main__':

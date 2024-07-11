@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import os
 import pandas as pd
+from utils import *
 
 
 def get_articles():
@@ -41,7 +42,7 @@ def get_articles():
     dic = { 'title': titles, 'author': authors, 'date': dates,
             'region': regions, 'cable-system': cables}
     info = pd.DataFrame(dic)
-    info.to_csv("./data/articles/article-info.csv", index=False)
+    info.to_csv("./data_" + formatted_date + "/articles/article-info.csv", index=False)
 
 
 if __name__=='__main__':
