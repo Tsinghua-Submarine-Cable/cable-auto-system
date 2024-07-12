@@ -6,7 +6,7 @@ def station_ai_extract():
     openai.api_key = 'sk-8TVNENpSop8RDTKC8cEfBc77A7Ab4c6388F53a802a364753'
     openai.api_base = 'https://api.xty.app/v1'
 
-    output_path = os.path.join('data', 'data_' + formatted_date, 'ai_output_station_upgrade')
+    output_path = os.path.join('data', 'data_' + formatted_date, 'ai_output_station')
     create_path_if_not_exists(output_path)
 
     existed_result = find_all_file(output_path)
