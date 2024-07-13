@@ -1,0 +1,18 @@
+You are tasked with creating a detailed and structured JSON object from an article or summary text about a submarine cable, if you can't find some data, set its value as null.
+The JSON object should have the following structure and fields:
+
+- name: Name of the submarine cable
+- length: The length of the cable in kilometers, int type
+- design_capacity: The design capacity in Tbps, int type
+- fiber_pairs: Total number of fiber pairs
+- rfs: The date when the service was launched
+- rfs_year: The year the service was launched, int type
+- suppliers: A list of suppliers involved
+- landing_points: A list of landing points
+- status: The current status of the cable
+- connected_data_centers: A list of connected data centers
+- owners: A list of owners of the cable
+- capacity_per_fiber: The capacity per fiber in Tbps, int type
+- other: Any other relevant information about the cable
+
+Please read the article/summary below and create a JSON object with as many details as available from the text.
