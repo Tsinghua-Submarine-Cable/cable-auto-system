@@ -4,7 +4,7 @@ from utils import *
 
 def insert_mongo():
     myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-    my_db = myclient["submainenetworks_data_" + formatted_date]
+    my_db = myclient["wiki_data_" + formatted_date]
     my_col = my_db["cable"]
     my_col.delete_many({})
 

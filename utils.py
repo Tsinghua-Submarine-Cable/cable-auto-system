@@ -71,5 +71,6 @@ def setup_logger(name, log_file, level=logging.INFO):
 
     return logger
 
+OPENAI_API_KEY = 'sk-l3tKgucSLpTjADcl51C48460D6Eb4eC2B60c2147B25f0b5d'
 # formatted_date = get_formatted_date()
 formatted_date = '2024-07-10'

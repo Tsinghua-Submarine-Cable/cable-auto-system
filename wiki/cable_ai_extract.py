@@ -4,8 +4,13 @@ import openai
 from tqdm.autonotebook import tqdm
 from utils import *
 
+
+https_proxy = 'http://127.0.0.1:10810'
+http_proxy = 'http://127.0.0.1:10810'
+os.environ["http_proxy"] = http_proxy
+os.environ["https_proxy"] = https_proxy
 def cable_ai_extract():
-    openai.api_key = 'sk-l3tKgucSLpTjADcl51C48460D6Eb4eC2B60c2147B25f0b5d'
+    openai.api_key = OPENAI_API_KEY
     openai.api_base = 'https://api.xty.app/v1'
 
     output_path = os.path.join('data', 'data_' + formatted_date, 'ai_output_cable')
@@ -13,7 +18,7 @@ def cable_ai_extract():
 
     existed_result = find_all_file(output_path)
 
-    path = os.path.join('data', 'data_' + formatted_date, 'cable_introduction')
+    path = os.path.join('data', 'data_' + formatted_date)
     all_file = find_all_file(path)
 
     f = open('../cable_prompt.txt', 'r', encoding='UTF-8')
@@ -27,11 +32,12 @@ def cable_ai_extract():
             if file_name in existed_result:
                 continue
             f = open(os.path.join(path, file_name), 'r', encoding='UTF-8')
-            dic = json.load(f)
+            if f.read() == '':
+                continue
             response = openai.ChatCompletion.create(
                 model="gpt-4",
                 messages=[
-                    {"role": "user", "content": prompt + dic['content']}
+                    {"role": "user", "content": prompt + f.read()}
                 ],
                 response_format={"type": "json_object"},
             )
