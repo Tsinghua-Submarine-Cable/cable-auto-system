@@ -6,6 +6,7 @@ from utils import *
 
 name_map = dict()
 eol_map = dict()
+country_map = dict()
 
 def load_name_map():
     global name_map  # 将infra上的海缆名映射到标准名
@@ -20,8 +21,16 @@ def load_eol_map():
     open_file = open('./data/data_' + formatted_date + '/id_eol.csv', 'r', encoding='utf-8')
     reader = csv.reader(open_file)
     for row in reader:
-        dt = datetime.fromtimestamp(int(row[1])*100)
+        dt = datetime.fromtimestamp(int(row[1]) * 100)
         eol_map[row[0]] = '{}-{}'.format(dt.year, dt.month)
+    open_file.close()
+
+def load_country_map():
+    global country_map
+    open_file = open('./auxiliary_data/country_map.csv', 'r', encoding='utf-8')
+    reader = csv.reader(open_file)
+    for row in reader:
+        country_map[row[1]] = row[2]
     open_file.close()
 
 def insert_mongo():
@@ -33,6 +42,7 @@ def insert_mongo():
 
     load_name_map()
     load_eol_map()
+    load_country_map()
     cable_info_path = os.path.join('./data/data_' + formatted_date, 'cable_info.json')
     f = open(cable_info_path, 'r', encoding='utf-8')
 
@@ -65,13 +75,16 @@ def insert_mongo():
 
         new_lps = []
         for lp in obj['cls']:
-            lp['name'] = lp['name'].replace(',  ', ', ')
+            lp['name'] = lp['name'].replace(',  ', ', ').strip()
             lp_dic = {
                 '_id': lp['_id'],
                 'name': lp['name'],
                 'country': lp['name'].split(', ')[-1],
                 'coordinates': lpid2info[lp['_id']]['coordinates']
             }
+            if lp_dic['country'] in country_map.keys():
+                lp_dic['country'] = country_map[lp_dic['country']]
+                lp_dic['name'] = lp['name'][:-2] + lp_dic['country']
             new_lps.append(lp_dic)
 
         dic['landing_points'] = new_lps

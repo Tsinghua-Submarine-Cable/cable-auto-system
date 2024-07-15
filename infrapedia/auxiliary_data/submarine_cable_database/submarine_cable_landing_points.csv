@@ -1,0 +1,1330 @@
+lp_id,lp_name,lp_country,lp_cables,create_time,update_time
+aasiaat-greenland,"Aasiaat, Greenland",Greenland,greenland-connect-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+aberdeen-united-kingdom,"Aberdeen, United Kingdom",United Kingdom,tampnet-offshore-foc-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+abu-dhabi-united-arab-emirates,"Abu Dhabi, United Arab Emirates",United Arab Emirates,2africa|qatar-u-a-e-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+abu-talat-egypt,"Abu Talat, Egypt",Egypt,asia-africa-europe-1-aae-1|europe-india-gateway-eig|middle-east-north-africa-mena-cable-systemgulf-bridge-international|peace-cable|seamewe-5|te-northtgn-eurasiaseacomalexandrosmedex,2022-12-19 22:59:40,2022-12-19 22:59:43
+accra-ghana,"Accra, Ghana",Ghana,2africa|africa-coast-to-europe-ace|glo-1|mainone|sat-3wasc|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+achnaba-united-kingdom,"Achnaba, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+aden-yemen,"Aden, Yemen",Yemen,aden-djibouti|asia-africa-europe-1-aae-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+aeng-batu-batu-indonesia,"Aeng Batu Batu, Indonesia",Indonesia,java-kalimantan-sulawesi-jakasusi,2022-12-19 22:59:40,2022-12-19 22:59:43
+aethos-greece,"Aethos, Greece",Greece,italy-greece-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+agat-guam,"Agat, Guam",Guam,echo,2022-12-19 22:59:40,2022-12-19 22:59:43
+agats-indonesia,"Agats, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+aguadilla-pr-united-states,"Aguadilla, PR, United States",United States,boriken-submarine-cable-system-bscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+aguimes-canary-islands-spain,"Aguimes, Canary Islands, Spain",Spain,transcan-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+aikerness-united-kingdom,"Aikerness , United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+aitutaki-cook-islands,"Aitutaki, Cook Islands",Cook Islands,manatua,2022-12-19 22:59:40,2022-12-19 22:59:43
+ajaccio-france,"Ajaccio, France",France,corse-continent-5-cc5,2022-12-19 22:59:40,2022-12-19 22:59:43
+ajigaura-japan,"Ajigaura, Japan",Japan,eac-c2c|pacific-crossing-1-pc-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+akita-japan,"Akita, Japan",Japan,japan-information-highway-jih,2022-12-19 22:59:40,2022-12-19 22:59:43
+akulivik-qc-canada,"Akulivik, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+akutan-ak-united-states,"Akutan, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-bayda-libya,"Al Bayda, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-bustan-oman,"Al Bustan, Oman",Oman,asia-africa-europe-1-aae-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-daayen-qatar,"Al Daayen, Qatar",Qatar,gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-faw-iraq,"Al Faw, Iraq",Iraq,2africa|falcon|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-ghaydah-yemen,"Al Ghaydah, Yemen",Yemen,falcon,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-hidd-bahrain,"Al Hidd, Bahrain",Bahrain,gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-hudaydah-yemen,"Al Hudaydah, Yemen",Yemen,falcon|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-kheesa-qatar,"Al-Kheesa, Qatar",Qatar,tata-tgn-gulf,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-khobar-saudi-arabia,"Al Khobar, Saudi Arabia",Saudi Arabia,2africa|falcon|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system|tata-tgn-gulf,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-khums-libya,"Al Khums, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-safat-kuwait,"Al Safat, Kuwait",Kuwait,falcon,2022-12-19 22:59:40,2022-12-19 22:59:43
+al-seeb-oman,"Al Seeb, Oman",Oman,falcon|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system|middle-east-north-africa-mena-cable-systemgulf-bridge-international|transworld-tw1,2022-12-19 22:59:40,2022-12-19 22:59:43
+aldeburgh-united-kingdom,"Aldeburgh, United Kingdom",United Kingdom,farland-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+alexandria-egypt,"Alexandria, Egypt",Egypt,aletar|flag-europe-asia-fea|hawk|imewe|seamewe-3|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+alexandria-nsw-australia,"Alexandria, NSW, Australia",Australia,indigo-central|southern-cross-cable-network-sccn|southern-cross-next,2022-12-19 22:59:40,2022-12-19 22:59:43
+algiers-algeria,"Algiers, Algeria",Algeria,med-cable-network|medusa-submarine-cable-system|oran-valencia-orval,2022-12-19 22:59:40,2022-12-19 22:59:43
+allen-philippines,"Allen, Philippines",Philippines,sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,2022-12-19 22:59:40,2022-12-19 22:59:43
+alofi-niue,"Alofi, Niue",Niue,manatua,2022-12-19 22:59:40,2022-12-19 22:59:43
+alor-indonesia,"Alor, Indonesia",Indonesia,kupang-alor-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+alotau-papua-new-guinea,"Alotau, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+alsgarde-denmark,"Alsgarde, Denmark",Denmark,denmark-sweden-17,2022-12-19 22:59:40,2022-12-19 22:59:43
+alta-vista-canary-islands-spain,"Alta Vista, Canary Islands, Spain",Spain,candalta|sat-3wasc|transcan-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+ambon-indonesia,"Ambon, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+amwaj-island-bahrain,"Amwaj Island, Bahrain",Bahrain,tata-tgn-gulf,2022-12-19 22:59:40,2022-12-19 22:59:43
+anadyr-russia,"Anadyr, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+anchorage-ak-united-states,"Anchorage, AK, United States",United States,acs-alaska-oregon-network-akorn|kodiak-kenai-fiber-link-kkfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+ancol-indonesia,"Ancol, Indonesia",Indonesia,link-3-phase-2|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+ancon-ecuador,"Ancon, Ecuador",Ecuador,carnival-submarine-network-1-csn-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+andalsnes-norway,"Andalsnes, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+angoon-ak-united-states,"Angoon, AK, United States",United States,alaska-united-southeast-au-se,2022-12-19 22:59:40,2022-12-19 22:59:43
+angra-do-heroismo-portugal,"Angra do Heroismo, Portugal",Portugal,azores-fiber-optic-system-afos,2022-12-19 22:59:40,2022-12-19 22:59:43
+annaba-algeria,"Annaba, Algeria",Algeria,med-cable-network|seamewe-4|te-northtgn-eurasiaseacomalexandrosmedex,2022-12-19 22:59:40,2022-12-19 22:59:43
+annobon-equatorial-guinea,"Annobon, Equatorial Guinea",Equatorial Guinea,ultramar-ge,2022-12-19 22:59:40,2022-12-19 22:59:43
+antofagasta-chile,"Antofagasta, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+anyer-indonesia,"Anyer, Indonesia",Indonesia,australia-singapore-cable-asc|biznet-nusantara-cable-system-1-bncs-1|sjjk,2022-12-19 22:59:40,2022-12-19 22:59:43
+apia-samoa,"Apia, Samoa",Samoa,manatua|samoa-american-samoa-sas|tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+aqaba-jordan,"Aqaba, Jordan",Jordan,blue|flag-europe-asia-fea|raman|taba-aqaba,2022-12-19 22:59:40,2022-12-19 22:59:43
+aracaju-brazil,"Aracaju, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+arawa-papua-new-guinea,"Arawa, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+archirondel-jersey,"Archirondel, Jersey",Jersey,ingrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardbeg-point-united-kingdom,"Ardbeg Point, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardgour-united-kingdom,"Ardgour, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardmair-united-kingdom,"Ardmair, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardnacross-united-kingdom,"Ardnacross, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardneil-bay-united-kingdom,"Ardneil Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardvasar-united-kingdom,"Ardvasar, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ardyne-point-united-kingdom,"Ardyne Point, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+arica-chile,"Arica, Chile",Chile,prat|south-america-1-sam-1|south-pacific-cable-system-spscmistral,2022-12-19 22:59:40,2022-12-19 22:59:43
+arrecife-canary-islands-spain,"Arrecife, Canary Islands, Spain",Spain,transcan-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+arutua-french-polynesia,"Arutua, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+asilah-morocco,"Asilah, Morocco",Morocco,atlas-offshore|canalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+atafona-brazil,"Atafona, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+atafu-tokelau,"Atafu, Tokelau",Tokelau,tokelau-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+athens-greece,"Athens, Greece",Greece,mednautilus-submarine-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+auckland-new-zealand,"Auckland, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+auki-solomon-islands,"Auki, Solomon Islands",Solomon Islands,coral-sea-cable-system-cs,2022-12-19 22:59:40,2022-12-19 22:59:43
+ayre-of-cara-united-kingdom,"Ayre of Cara, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+baa-indonesia,"Baa, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+baby-beach-aruba,"Baby Beach, Aruba",Aruba,alonso-de-ojeda,2022-12-19 22:59:40,2022-12-19 22:59:43
+baclayon-philippines,"Baclayon, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bacong-philippines,"Bacong, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bahar-ic-caghaq-malta,"Bahar ic-Caghaq, Malta",Malta,malta-italy-interconnector|melita-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+baie-du-tombeau-mauritius,"Baie du Tombeau, Mauritius",Mauritius,meltingpot-indianoceanic-submarine-system-metiss,2022-12-19 22:59:40,2022-12-19 22:59:43
+baie-jacotet-mauritius,"Baie Jacotet, Mauritius",Mauritius,mauritius-and-rodrigues-submarine-cable-system-mars|safe,2022-12-19 22:59:40,2022-12-19 22:59:43
+baie-longue-saint-martin,"Baie Longue, Saint Martin",Saint Martin,sint-maarten-puerto-rico-network-one-smpr-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+baie-mahault-guadeloupe,"Baie-Mahault, Guadeloupe",Guadeloupe,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+baillif-guadeloupe,"Baillif, Guadeloupe",Guadeloupe,global-caribbean-network-gcn|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+balboa-panama,"Balboa, Panama",Panama,aurora-cable-system|curie|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+balchik-bulgaria,"Balchik, Bulgaria",Bulgaria,caucasus-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+baler-philippines,"Baler, Philippines",Philippines,apricot|pacific-light-cable-network-plcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bali-indonesia,"Bali, Indonesia",Indonesia,indonesia-global-gateway-igg-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+balikpapan-indonesia,"Balikpapan, Indonesia",Indonesia,indonesia-global-gateway-igg-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+balla-united-kingdom,"Balla, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ballesteros-philippines,"Ballesteros, Philippines",Philippines,tata-tgn-intra-asia-tgn-ia,2022-12-19 22:59:40,2022-12-19 22:59:43
+ballinesker-ireland,"Ballinesker, Ireland",Ireland,pan-european-crossing-uk-ireland,2022-12-19 22:59:40,2022-12-19 22:59:43
+balluta-bay-malta,"Balluta Bay, Malta",Malta,epic-malta-sicily-cable-system-emscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+ballygrangans-ireland,"Ballygrangans, Ireland",Ireland,pan-european-crossing-uk-ireland,2022-12-19 22:59:40,2022-12-19 22:59:43
+ballyhornan-united-kingdom,"Ballyhornan, United Kingdom",United Kingdom,bt-mt-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+ballywater-united-kingdom,"Ballywater, United Kingdom",United Kingdom,lanis-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+banana-bay-virgin-islands-u-s-,"Banana Bay, Virgin Islands (U.S.)",Virgin Islands (U.S.),st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+bandaneria-indonesia,"Bandaneria, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+bandar-abbas-iran,"Bandar Abbas, Iran",Iran,falcon,2022-12-19 22:59:40,2022-12-19 22:59:43
+bandar-bukit-tinggi-malaysia,"Bandar Bukit Tinggi, Malaysia",Malaysia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+bandar-lampung-indonesia,"Bandar Lampung, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+bandon-or-united-states,"Bandon, OR, United States",United States,faster,2022-12-19 22:59:40,2022-12-19 22:59:43
+banff-united-kingdom,"Banff, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+bangga-indonesia,"Bangga, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+banjarmasin-indonesia,"Banjarmasin, Indonesia",Indonesia,jaka2ladema|s-u-b-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+banjul-gambia,"Banjul, Gambia",Gambia,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+banyu-urip-indonesia,"Banyu Urip, Indonesia",Indonesia,jakarta-surabaya-cable-system-jayabaya|java-kalimantan-sulawesi-jakasusi,2022-12-19 22:59:40,2022-12-19 22:59:43
+barcelona-spain,"Barcelona, Spain",Spain,2africa|medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+bari-italy,"Bari, Italy",Italy,asia-africa-europe-1-aae-1|italy-albania|jonah|oteglobe-kokkini-bari,2022-12-19 22:59:40,2022-12-19 22:59:43
+barka-oman,"Barka, Oman",Oman,2africa|bay-of-bengal-gateway-bbg|europe-india-gateway-eig|omranepeg-cable-system|pishgaman-oman-iran-poi-network|raman,2022-12-19 22:59:40,2022-12-19 22:59:43
+barranquilla-colombia,"Barranquilla, Colombia",Colombia,america-movil-submarine-cable-system-1-amx-1|carnival-submarine-network-1-csn-1|globenet|south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+barsebck-sweden,"Barsebäck, Sweden",Sweden,danica-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+basseterre-saint-kitts-and-nevis,"Basseterre, Saint Kitts and Nevis",Saint Kitts and Nevis,eastern-caribbean-fiber-system-ecfs|saba-statia-cable-system-sscs|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+bastia-france,"Bastia, France",France,blue,2022-12-19 22:59:40,2022-12-19 22:59:43
+bata-equatorial-guinea,"Bata, Equatorial Guinea",Equatorial Guinea,africa-coast-to-europe-ace|ceiba-1|ceiba-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+batam-indonesia,"Batam, Indonesia",Indonesia,asia-connect-cable-1-acc1|b2js-jakarta-bangka-batam-singapore-cable-system|batam-dumai-melaka-bdm-cable-system|batam-singapore-cable-system-bscs|hawaiki-nui|indonesia-global-gateway-igg-system|jakarta-bangka-bintan-batam-singapore-b3js|jasuka|matrix-cable-system|moratelindo-international-cable-system-1-mic-1|palapa-ring-west|pgascom|seax-1|thailand-indonesia-singapore-tis,2022-12-19 22:59:40,2022-12-19 22:59:43
+batangas-philippines,"Batangas, Philippines",Philippines,apcn-2|asia-direct-cable-adc|eac-c2c|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+batu-prahu-indonesia,"Batu Prahu, Indonesia",Indonesia,b2js-jakarta-bangka-batam-singapore-cable-system|jakarta-bangka-bintan-batam-singapore-b3js,2022-12-19 22:59:40,2022-12-19 22:59:43
+baturaja-indonesia,"Baturaja, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+baubau-indonesia,"Baubau, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+bawean-indonesia,"Bawean, Indonesia",Indonesia,sjjk,2022-12-19 22:59:40,2022-12-19 22:59:43
+bay-of-tuquoy-united-kingdom,"Bay of Tuquoy, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+beausejour-guadeloupe,"Beausejour, Guadeloupe",Guadeloupe,guadeloupe-cable-des-iles-du-sud-gcis,2022-12-19 22:59:40,2022-12-19 22:59:43
+beculuk-indonesia,"Beculuk, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+beirut-lebanon,"Beirut, Lebanon",Lebanon,berytar|cadmos,2022-12-19 22:59:40,2022-12-19 22:59:43
+belize-city-belize,"Belize City, Belize",Belize,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+bellport-ny-united-states,"Bellport, NY, United States",United States,grace-hopper|yellow,2022-12-19 22:59:40,2022-12-19 22:59:43
+benghazi-libya,"Benghazi, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+bengkalis-indonesia,"Bengkalis, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+bequia-saint-vincent-and-the-grenadines,"Bequia, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+berbera-somalia,"Berbera, Somalia",Somalia,africa-1|gulf2africa-g2a,2022-12-19 22:59:40,2022-12-19 22:59:43
+bergen-norway,"Bergen, Norway",Norway,eviny-digital|n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+beverwijk-netherlands,"Beverwijk, Netherlands",Netherlands,atlantic-crossing-1-ac-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+biak-indonesia,"Biak, Indonesia",Indonesia,smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+bilbao-spain,"Bilbao, Spain",Spain,grace-hopper|marea|tata-tgn-western-europe,2022-12-19 22:59:40,2022-12-19 22:59:43
+bima-indonesia,"Bima, Indonesia",Indonesia,mataram-kupang-cable-system-mkcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+bintan-indonesia,"Bintan, Indonesia",Indonesia,jakarta-bangka-bintan-batam-singapore-b3js,2022-12-19 22:59:40,2022-12-19 22:59:43
+bintulu-malaysia,"Bintulu, Malaysia",Malaysia,sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+bizerte-tunisia,"Bizerte, Tunisia",Tunisia,seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+blaabjerg-denmark,"Blaabjerg, Denmark",Denmark,cantat-3|danice|havfrueaec-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+black-river-jamaica,"Black River, Jamaica",Jamaica,jscfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+blackpool-sands-united-kingdom,"Blackpool Sands, United Kingdom",United Kingdom,channel-islands-9-liberty-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+blackpool-united-kingdom,"Blackpool, United Kingdom",United Kingdom,e-llan|havhingstenceltixconnect-2-cc-2|lanis-1|sirius-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+blackwaterfoot-united-kingdom,"Blackwaterfoot, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+bluefields-nicaragua,"Bluefields, Nicaragua",Nicaragua,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+boat-harbour-tas-australia,"Boat Harbour, TAS, Australia",Australia,bass-strait-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+boca-raton-fl-united-states,"Boca Raton, FL, United States",United States,bahamas-internet-cable-system-bics|colombia-florida-subsea-fiber-cfx-1|gignet-1|globenet|monet|south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+bod-norway,"Bodø, Norway",Norway,bodo-rost-cable|polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+bogo-philippines,"Bogo, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bomba-belize,"Bomba, Belize",Belize,strategic-evolution-underwater-link-seul,2022-12-19 22:59:40,2022-12-19 22:59:43
+boracay-philippines,"Boracay, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bosaso-somalia,"Bosaso, Somalia",Somalia,djibouti-africa-regional-express-1-dare1|gulf2africa-g2a|peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+bozyazi-turkey,"Bozyazi, Turkey",Turkey,turcyos-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+bp-clair-ridge-united-kingdom,"BP Clair Ridge, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+branahuie-bay-united-kingdom,"Branahuie Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+brean-united-kingdom,"Brean, United Kingdom",United Kingdom,exa-express|swansea-brean,2022-12-19 22:59:40,2022-12-19 22:59:43
+bredene-belgium,"Bredene, Belgium",Belgium,pan-european-crossing-uk-belgium,2022-12-19 22:59:40,2022-12-19 22:59:43
+brega-libya,"Brega, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+breivika-norway,"Breivika, Norway",Norway,svalbard-undersea-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+brekstad-norway,"Brekstad, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+bridgetown-barbados,"Bridgetown, Barbados",Barbados,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+brighton-united-kingdom,"Brighton, United Kingdom",United Kingdom,crosschannel-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+brisbane-qld-australia,"Brisbane, QLD, Australia",Australia,hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+brnnysund-norway,"Brønnøysund, Norway",Norway,polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+broadstairs-united-kingdom,"Broadstairs, United Kingdom",United Kingdom,bt-north-sea|tangerine,2022-12-19 22:59:40,2022-12-19 22:59:43
+brondby-denmark,"Brondby, Denmark",Denmark,ip-only-denmark-sweden,2022-12-19 22:59:40,2022-12-19 22:59:43
+brookhaven-ny-united-states,"Brookhaven, NY, United States",United States,atlantic-crossing-1-ac-1|mid-atlantic-crossing-mac,2022-12-19 22:59:40,2022-12-19 22:59:43
+brookvale-nsw-australia,"Brookvale, NSW, Australia",Australia,japan-guam-australia-south-jga-s|southern-cross-cable-network-sccn,2022-12-19 22:59:40,2022-12-19 22:59:43
+bude-united-kingdom,"Bude, United Kingdom",United Kingdom,2africa|amitie|apollo|europe-india-gateway-eig|glo-1|grace-hopper|pan-european-crossing-uk-ireland|yellow,2022-12-19 22:59:40,2022-12-19 22:59:43
+buenaventura-colombia,"Buenaventura, Colombia",Colombia,south-american-crossing-sac,2022-12-19 22:59:40,2022-12-19 22:59:43
+buenavista-philippines,"Buenavista, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+buffalo-ny-united-states,"Buffalo, NY, United States",United States,crosslake-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+bull-bay-jamaica,"Bull Bay, Jamaica",Jamaica,cayman-jamaica-fiber-system-cjfs|fibralink|jscfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+bulobulo-indonesia,"Bulobulo, Indonesia",Indonesia,link-1-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+bunkeflostand-sweden,"Bunkeflostand, Sweden",Sweden,scandinavian-ring-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+bunkum-bay-montserrat,"Bunkum Bay, Montserrat",Montserrat,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+buranga-indonesia,"Buranga, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+busan-south-korea,"Busan, South Korea",South Korea,apcn-2|asia-pacific-gateway-apg|eac-c2c|flag-north-asia-loopreach-north-asia-loop|korea-japan-cable-network-kjcn|new-cross-pacific-ncp-cable-system|southeast-asia-japan-cable-2-sjc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+bushehr-iran,"Bushehr, Iran",Iran,gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+butterworth-malaysia,"Butterworth, Malaysia",Malaysia,asia-africa-europe-1-aae-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+butuan-city-philippines,"Butuan City, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+cabimas-venezuela,"Cabimas, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+cabinda-angola,"Cabinda, Angola",Angola,nzadi-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+cabo-espiritu-santo-argentina,"Cabo Espiritu Santo , Argentina",Argentina,arsat-submarine-fiber-optic-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+cabo-san-juan-equatorial-guinea,"Cabo San Juan, Equatorial Guinea",Equatorial Guinea,mandji-fiber-optic-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+cacuaco-angola,"Cacuaco, Angola",Angola,sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+cadiz-city-philippines,"Cadiz City, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+cagayan-de-oro-philippines,"Cagayan de Oro, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn|pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+cagliari-italy,"Cagliari, Italy",Italy,janna,2022-12-19 22:59:40,2022-12-19 22:59:43
+calbayog-philippines,"Calbayog, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+caldera-chile,"Caldera, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+calgary-united-kingdom,"Calgary, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+callantsoog-netherlands,"Callantsoog, Netherlands",Netherlands,bt-north-sea,2022-12-19 22:59:40,2022-12-19 22:59:43
+camuri-venezuela,"Camuri, Venezuela",Venezuela,americas-ii|venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+cancn-mexico,"Cancún, Mexico",Mexico,america-movil-submarine-cable-system-1-amx-1|arcos|aurora-cable-system|caribbean-express-cx|gignet-1|maya-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+candelaria-canary-islands-spain,"Candelaria, Canary Islands, Spain",Spain,candalta|pencan-8,2022-12-19 22:59:40,2022-12-19 22:59:43
+candi-kusuma-indonesia,"Candi Kusuma, Indonesia",Indonesia,java-bali-cable-system-jbcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+canefield-dominica,"Canefield, Dominica",Dominica,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+cannes-france,"Cannes, France",France,corse-continent-4-cc4,2022-12-19 22:59:40,2022-12-19 22:59:43
+canouan-saint-vincent-and-the-grenadines,"Canouan, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+cape-daguilar-china,"Cape D’Aguilar, China",HongKong,asia-africa-europe-1-aae-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+cape-town-south-africa,"Cape Town, South Africa",South Africa,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+capesterre-belle-eau-guadeloupe,"Capesterre-Belle-Eau, Guadeloupe",Guadeloupe,guadeloupe-cable-des-iles-du-sud-gcis,2022-12-19 22:59:40,2022-12-19 22:59:43
+car-nicobar-india,"Car Nicobar, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+carana-seychelles,"Carana, Seychelles",Seychelles,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+carcavelos-portugal,"Carcavelos, Portugal",Portugal,2africa|africa-coast-to-europe-ace|bugio|columbus-iii-azores-portugal,2022-12-19 22:59:40,2022-12-19 22:59:43
+carpano-venezuela,"Carúpano, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+carriacou-grenada,"Carriacou, Grenada",Grenada,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+carrickfergus-united-kingdom,"Carrickfergus, United Kingdom",United Kingdom,sirius-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+cartagena-colombia,"Cartagena, Colombia",Colombia,america-movil-submarine-cable-system-1-amx-1|arcos|aurora-cable-system|caribbean-express-cx|colombia-florida-subsea-fiber-cfx-1|colombian-festoon|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+casablanca-morocco,"Casablanca, Morocco",Morocco,maroc-telecom-west-africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+castries-saint-lucia,"Castries, Saint Lucia",Saint Lucia,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+cat-island-bahamas,"Cat Island, Bahamas",Bahamas,arcos|bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+catania-italy,"Catania, Italy",Italy,epic-malta-sicily-cable-system-emscs|imewe|italy-malta|mednautilus-submarine-system|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+caves-point-bahamas,"Caves Point, Bahamas",Bahamas,bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+cavite-philippines,"Cavite, Philippines",Philippines,eac-c2c,2022-12-19 22:59:40,2022-12-19 22:59:43
+cayenne-french-guiana,"Cayenne, French Guiana",French Guiana,americas-ii|deep-blue-one,2022-12-19 22:59:40,2022-12-19 22:59:43
+cayeux-sur-mer-france,"Cayeux-sur-Mer, France",France,circe-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+cayman-brac-cayman-islands,"Cayman Brac, Cayman Islands",Cayman Islands,cayman-jamaica-fiber-system-cjfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+cebu-philippines,"Cebu, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+chabahar-iran,"Chabahar, Iran",Iran,falcon|omranepeg-cable-system|pishgaman-oman-iran-poi-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+chaguaramas-trinidad-and-tobago,"Chaguaramas, Trinidad and Tobago",Trinidad and Tobago,deep-blue-one|eastern-caribbean-fiber-system-ecfs|eclink|southern-caribbean-fiber|suriname-guyana-submarine-cable-system-sg-scs,2022-12-19 22:59:40,2022-12-19 22:59:43
+changi-north-singapore,"Changi North, Singapore",Singapore,asia-america-gateway-aag-cable-system|batam-singapore-cable-system-bscs|eac-c2c|echo|jakabare|moratelindo-international-cable-system-1-mic-1|tata-tgn-intra-asia-tgn-ia|tata-tgn-tata-indicom|thailand-indonesia-singapore-tis,2022-12-19 22:59:40,2022-12-19 22:59:43
+changi-south-singapore,"Changi South, Singapore",Singapore,asia-pacific-gateway-apg|asia-submarine-cable-express-asecahaya-malaysia|eac-c2c|matrix-cable-system|southeast-asia-japan-cable-2-sjc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+chania-greece,"Chania, Greece",Greece,asia-africa-europe-1-aae-1|blue|mednautilus-submarine-system|seamewe-3|silphium,2022-12-19 22:59:40,2022-12-19 22:59:43
+charlestown-ri-united-states,"Charlestown, RI, United States",United States,challenger-bermuda-1-cb-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+chateaubelair-saint-vincent-and-the-grenadines,"Chateaubelair, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+chennai-india,"Chennai, India",India,bay-of-bengal-gateway-bbg|chennai-andaman-nicobar-islands-cable|i2i-cable-network-i2icn|india-asia-xpress-iax|mist|seamewe-4|tata-tgn-tata-indicom,2022-12-19 22:59:40,2022-12-19 22:59:43
+cherating-malaysia,"Cherating, Malaysia",Malaysia,malaysia-cambodia-thailand-mct-cable|sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+chichiriviche-venezuela,"Chichiriviche, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+chignik-bay-ak-united-states,"Chignik Bay, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+chignik-lagoon-ak-united-states,"Chignik Lagoon, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+chignik-lake-ak-united-states,"Chignik Lake, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+chikura-japan,"Chikura, Japan",Japan,apcn-2|eac-c2c|faster|japan-information-highway-jih|southeast-asia-japan-cable-2-sjc2|southeast-asia-japan-cable-sjc|unityeac-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+chindini-comoros,"Chindini, Comoros",Comoros,avassa|comoros-domestic-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+chipiona-spain,"Chipiona, Spain",Spain,pencan-9|sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+chisasibi-qc-canada,"Chisasibi, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+chongming-china,"Chongming, China",China,apcn-2|asia-pacific-gateway-apg|new-cross-pacific-ncp-cable-system|trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+christchurch-new-zealand,"Christchurch, New Zealand",New Zealand,aqualink|hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+christiansted-vi-united-states,"Christiansted, VI, United States",United States,st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+chung-hom-kok-china,"Chung Hom Kok, China",HongKong,asia-direct-cable-adc|eac-c2c|hainan-to-hong-kong-express-h2he|sea-h2x|southeast-asia-japan-cable-2-sjc2|southeast-asia-japan-cable-sjc,2022-12-19 22:59:40,2022-12-19 22:59:43
+cirebon-indonesia,"Cirebon, Indonesia",Indonesia,jakarta-surabaya-cable-system-jayabaya,2022-12-19 22:59:40,2022-12-19 22:59:43
+ciudad-lzaro-crdenas-mexico,"Ciudad Lázaro Cárdenas, Mexico",Mexico,lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+civitavecchia-italy,"Civitavecchia, Italy",Italy,janna,2022-12-19 22:59:40,2022-12-19 22:59:43
+clarence-town-bahamas,"Clarence Town, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+clonshaugh-ireland,"Clonshaugh, Ireland",Ireland,emerald-bridge-fibres,2022-12-19 22:59:40,2022-12-19 22:59:43
+cloverdale-or-united-states,"Cloverdale, OR, United States",United States,jupiter,2022-12-19 22:59:40,2022-12-19 22:59:43
+cochin-india,"Cochin, India",India,safe|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+cockburn-town-bahamas,"Cockburn Town, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+coffman-cove-ak-united-states,"Coffman Cove, AK, United States",United States,sealink,2022-12-19 22:59:40,2022-12-19 22:59:43
+coilleag-united-kingdom,"Coilleag, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+cold-bay-ak-united-states,"Cold Bay, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+coleraine-united-kingdom,"Coleraine, United Kingdom",United Kingdom,exa-north-and-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+collo-algeria,"Collo, Algeria",Algeria,medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+colombo-sri-lanka,"Colombo, Sri Lanka",Sri Lanka,dhiraagu-slt-submarine-cable-network|falcon|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+colon-panama,"Colon, Panama",Panama,south-american-crossing-sac,2022-12-19 22:59:40,2022-12-19 22:59:43
+conakry-guinea,"Conakry, Guinea",Guinea,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+condado-beach-pr-united-states,"Condado Beach, PR, United States",United States,taino-carib,2022-12-19 22:59:40,2022-12-19 22:59:43
+conference-grenada,"Conference, Grenada",Grenada,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+conil-spain,"Conil, Spain",Spain,canalink|pencan-8,2022-12-19 22:59:40,2022-12-19 22:59:43
+constitucin-chile,"Constitución, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+copa-club-jamaica,"Copa Club, Jamaica",Jamaica,colombia-florida-subsea-fiber-cfx-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+corfu-greece,"Corfu, Greece",Greece,adria-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+corisco-equatorial-guinea,"Corisco, Equatorial Guinea",Equatorial Guinea,mandji-fiber-optic-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+cork-ireland,"Cork, Ireland",Ireland,exa-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+coro-venezuela,"Coro, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+coron-philippines,"Coron, Philippines",Philippines,boracay-palawan-submarine-cable-system|converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+corran-united-kingdom,"Corran, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+corrie-united-kingdom,"Corrie, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+corvo-portugal,"Corvo, Portugal",Portugal,flores-corvo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+cotonou-benin,"Cotonou, Benin",Benin,africa-coast-to-europe-ace|maroc-telecom-west-africa|sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+coxs-bazar-bangladesh,"Cox’s Bazar, Bangladesh",Bangladesh,seamewe|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+craighouse-united-kingdom,"Craighouse, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+crescent-beach-ri-united-states,"Crescent Beach, RI, United States",United States,sea2shore,2022-12-19 22:59:40,2022-12-19 22:59:43
+cristbal-ecuador,"Cristóbal, Ecuador",Ecuador,carnival-submarine-network-1-csn-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+crooked-island-bahamas,"Crooked Island, Bahamas",Bahamas,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+crotone-italy,"Crotone, Italy",Italy,ionian,2022-12-19 22:59:40,2022-12-19 22:59:43
+crown-haven-bahamas,"Crown Haven, Bahamas",Bahamas,bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+cuman-venezuela,"Cumaná, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+current-bahamas,"Current, Bahamas",Bahamas,bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+dadeng-island-china,"Dadeng Island, China",China,cross-straits-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+daet-philippines,"Daet, Philippines",Philippines,asia-submarine-cable-express-asecahaya-malaysia|jupiter,2022-12-19 22:59:40,2022-12-19 22:59:43
+dakar-senegal,"Dakar, Senegal",Senegal,2africa|africa-coast-to-europe-ace|mainone|sat-3wasc|senegal-horn-of-africa-regional-express-share-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+dakhla-morocco,"Dakhla, Morocco",Morocco,maroc-telecom-west-africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+danang-vietnam,"Danang, Vietnam",Vietnam,asia-pacific-gateway-apg|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+dania-beach-fl-united-states,"Dania Beach, FL, United States",United States,gtmo-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+dar-es-salaam-tanzania,"Dar Es Salaam, Tanzania",Tanzania,2africa|eastern-africa-submarine-system-eassy|seacomtata-tgn-eurasia|seychelles-to-east-africa-system-seas,2022-12-19 22:59:40,2022-12-19 22:59:43
+dartmouth-united-kingdom,"Dartmouth, United Kingdom",United Kingdom,uk-channel-islands-7,2022-12-19 22:59:40,2022-12-19 22:59:43
+daru-papua-new-guinea,"Daru, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+darwin-nt-australia,"Darwin, NT, Australia",Australia,asia-connect-cable-1-acc1|hawaiki-nui|north-west-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+das-island-united-arab-emirates,"Das Island, United Arab Emirates",United Arab Emirates,qatar-u-a-e-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+davao-philippines,"Davao, Philippines",Philippines,apricot|bifrost|sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+deep-water-bay-china,"Deep Water Bay, China",HongKong,seamewe-3|tata-tgn-intra-asia-tgn-ia,2022-12-19 22:59:40,2022-12-19 22:59:43
+deeside-clwyd-united-kingdom,"Deeside Clwyd, United Kingdom",United Kingdom,geo-eirgrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+denpasar-indonesia,"Denpasar, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+derna-libya,"Derna, Libya",Libya,lfon-libyan-fiber-optic-network|silphium,2022-12-19 22:59:40,2022-12-19 22:59:43
+dhangethi-maldives,"Dhangethi, Maldives",Maldives,dhiraagu-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+diba-oman,"Diba, Oman",Oman,omranepeg-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+dickenson-bay-antigua-and-barbuda,"Dickenson Bay, Antigua and Barbuda",Antigua and Barbuda,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+dikson-russia,"Dikson, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+dili-timor-leste,"Dili, Timor-Leste",Timor-Leste,asia-connect-cable-1-acc1,2022-12-19 22:59:40,2022-12-19 22:59:43
+djibouti-city-djibouti,"Djibouti City, Djibouti",Djibouti,2africa|aden-djibouti|africa-1|asia-africa-europe-1-aae-1|djibouti-africa-regional-express-1-dare1|india-europe-xpress-iex|middle-east-north-africa-mena-cable-systemgulf-bridge-international|peace-cable|seacomtata-tgn-eurasia|seamewe|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+doha-qatar,"Doha, Qatar",Qatar,2africa|asia-africa-europe-1-aae-1|falcon|fiber-optic-gulf-fog|qatar-u-a-e-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+domburg-netherlands,"Domburg, Netherlands",Netherlands,farland-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+donaghadee-united-kingdom,"Donaghadee, United Kingdom",United Kingdom,scotland-northern-ireland-1|scotland-northern-ireland-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+douala-cameroon,"Douala, Cameroon",Cameroon,sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+douglas-isle-of-man,"Douglas, Isle of Man",Isle of Man,e-llan,2022-12-19 22:59:40,2022-12-19 22:59:43
+down-craig-united-kingdom,"Down Craig, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+dragor-denmark,"Dragor, Denmark",Denmark,scandinavian-ring-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+duart-bay-united-kingdom,"Duart Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+duba-saudi-arabia,"Duba, Saudi Arabia",Saudi Arabia,2africa|africa-1|india-europe-xpress-iex|raman|saudi-vision,2022-12-19 22:59:40,2022-12-19 22:59:43
+dubai-united-arab-emirates,"Dubai, United Arab Emirates",United Arab Emirates,falcon|fiber-optic-gulf-fog|tata-tgn-gulf,2022-12-19 22:59:40,2022-12-19 22:59:43
+dublin-ireland,"Dublin, Ireland",Ireland,celtixconnect-1-cc-1|exa-north-and-south|sirius-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+dubrovnik-croatia,"Dubrovnik, Croatia",Croatia,adria-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+dumaguete-philippines,"Dumaguete, Philippines",Philippines,national-digital-transmission-network-ndtn|pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+dumai-indonesia,"Dumai, Indonesia",Indonesia,batam-dumai-melaka-bdm-cable-system|damai-cable-system|dumai-melaka-cable-system|indonesia-global-gateway-igg-system|jasuka|palapa-ring-west|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+dumpton-gap-united-kingdom,"Dumpton Gap, United Kingdom",United Kingdom,pan-european-crossing-uk-belgium,2022-12-19 22:59:40,2022-12-19 22:59:43
+duncan-town-bahamas,"Duncan Town, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+dunedin-new-zealand,"Dunedin, New Zealand",New Zealand,hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+dunnet-bay-united-kingdom,"Dunnet Bay, United Kingdom",United Kingdom,farice-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+dunnet-head-united-kingdom,"Dunnet Head, United Kingdom",United Kingdom,northern-lights,2022-12-19 22:59:40,2022-12-19 22:59:43
+dunvegan-united-kingdom,"Dunvegan, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+durres-albania,"Durres, Albania",Albania,adria-1|italy-albania,2022-12-19 22:59:40,2022-12-19 22:59:43
+duynefontein-south-africa,"Duynefontein, South Africa",South Africa,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+eemshaven-netherlands,"Eemshaven, Netherlands",Netherlands,cobracable,2022-12-19 22:59:40,2022-12-19 22:59:43
+eight-mile-rock-bahamas,"Eight-Mile Rock, Bahamas",Bahamas,bahamas-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+el-djamila-algeria,"El Djamila, Algeria",Algeria,alpal-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+el-goro-canary-islands-spain,"El Goro, Canary Islands, Spain",Spain,canalink|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+el-mdano-canary-islands-spain,"El Médano, Canary Islands, Spain",Spain,tenerife-gran-canaria,2022-12-19 22:59:40,2022-12-19 22:59:43
+el-quawef-libya,"El-Quawef, Libya",Libya,tobrok-emasaed-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+el-segundo-ca-united-states,"El Segundo, CA, United States",United States,curie|pacific-light-cable-network-plcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+emi-japan,"Emi, Japan",Japan,tata-tgn-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+ende-indonesia,"Ende, Indonesia",Indonesia,mataram-kupang-cable-system-mkcs|sape-labuanbajo-ende-kupang-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+endrup-denmark,"Endrup, Denmark",Denmark,cobracable,2022-12-19 22:59:40,2022-12-19 22:59:43
+equinor-tjeldbergodden-norway,"Equinor Tjeldbergodden, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+estepona-spain,"Estepona, Spain",Spain,estepona-tetouan|flag-europe-asia-fea,2022-12-19 22:59:40,2022-12-19 22:59:43
+eureka-ca-united-states,"Eureka, CA, United States",United States,echo,2022-12-19 22:59:40,2022-12-19 22:59:43
+eydhafushi-maldives,"Eydhafushi, Maldives",Maldives,dhiraagu-cable-network|nationwide-submarine-cable-ooredoo-maldives-nascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+faial-portugal,"Faial, Portugal",Portugal,azores-fiber-optic-system-afos|flores-corvo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+fakaofa-tokelau,"Fakaofa, Tokelau",Tokelau,tokelau-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+fakarava-french-polynesia,"Fakarava, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+fakfak-indonesia,"Fakfak, Indonesia",Indonesia,smpcs-packet-1|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+false-pass-ak-united-states,"False Pass, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+fangshan-taiwan,"Fangshan, Taiwan",Taiwan,eac-c2c|seamewe-3|southeast-asia-japan-cable-2-sjc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+fano-denmark,"Fano, Denmark",Denmark,hronn,2022-12-19 22:59:40,2022-12-19 22:59:43
+farosund-sweden,"Farosund, Sweden",Sweden,sweden-latvia,2022-12-19 22:59:40,2022-12-19 22:59:43
+farsund-norway,"Farsund, Norway",Norway,tampnet-offshore-foc-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+feolin-ferry-united-kingdom,"Feolin Ferry, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+fighting-bay-new-zealand,"Fighting Bay, New Zealand",New Zealand,cook-strait,2022-12-19 22:59:40,2022-12-19 22:59:43
+fish-camp-ak-united-states,"Fish Camp, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+flamingo-bay-virgin-islands-u-s-,"Flamingo Bay, Virgin Islands (U.S.)",Virgin Islands (U.S.),st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+flor-norway,"Florø, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+florence-or-united-states,"Florence, OR, United States",United States,acs-alaska-oregon-network-akorn,2022-12-19 22:59:40,2022-12-19 22:59:43
+flores-portugal,"Flores, Portugal",Portugal,flores-corvo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+flying-fish-cove-christmas-island,"Flying Fish Cove, Christmas Island",Christmas Island,australia-singapore-cable-asc,2022-12-19 22:59:40,2022-12-19 22:59:43
+fomboni-moheli-comoros,"Fomboni Moheli, Comoros",Comoros,comoros-domestic-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+fort-amador-panama,"Fort Amador, Panama",Panama,pan-american-crossing-pac|south-american-crossing-sac,2022-12-19 22:59:40,2022-12-19 22:59:43
+fort-dauphin-madagascar,"Fort Dauphin, Madagascar",Madagascar,meltingpot-indianoceanic-submarine-system-metiss,2022-12-19 22:59:40,2022-12-19 22:59:43
+fortaleza-brazil,"Fortaleza, Brazil",Brazil,america-movil-submarine-cable-system-1-amx-1|americas-ii|brusa|ellalink|globenet|monet|south-america-1-sam-1|south-american-crossing-sac|south-atlantic-cable-system-sacs|south-atlantic-inter-link-sail,2022-12-19 22:59:40,2022-12-19 22:59:43
+fortune-nl-canada,"Fortune, NL, Canada",Canada,st-pierre-and-miquelon-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+four-mile-bluff-tas-australia,"Four Mile Bluff, TAS, Australia",Australia,basslink,2022-12-19 22:59:40,2022-12-19 22:59:43
+frederiksted-virgin-islands-u-s-,"Frederiksted, Virgin Islands (U.S.)",Virgin Islands (U.S.),boriken-submarine-cable-system-bscs|st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+freeport-tx-united-states,"Freeport, TX, United States",United States,gulf-of-mexico-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+freetown-sierra-leone,"Freetown, Sierra Leone",Sierra Leone,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+fresh-creek-bahamas,"Fresh Creek, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+fujairah-united-arab-emirates,"Fujairah, United Arab Emirates",United Arab Emirates,asia-africa-europe-1-aae-1|bay-of-bengal-gateway-bbg|europe-india-gateway-eig|flag-europe-asia-fea|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system|imewe|seamewe-3|seamewe-4|seamewe-5|tata-tgn-gulf|the-east-african-marine-system-teams|transworld-tw1|uae-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+fukuoka-japan,"Fukuoka, Japan",Japan,korea-japan-cable-network-kjcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+funchal-portugal,"Funchal, Portugal",Portugal,cam-ring|ellalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+funningsfjordur-faroe-islands,"Funningsfjordur, Faroe Islands",Faroe Islands,farice-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+fuvahmulah-maldives,"Fuvahmulah, Maldives",Maldives,dhiraagu-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+fuzhou-china,"Fuzhou, China",China,taiwan-strait-express-1-tse-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+gahdhoo-maldives,"Gahdhoo, Maldives",Maldives,dhiraagu-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+gallows-bay-bonaire-sint-eustatius-and-saba,"Gallows Bay, Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",saba-statia-cable-system-sscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+galway-ireland,"Galway, Ireland",Ireland,iris,2022-12-19 22:59:40,2022-12-19 22:59:43
+gan-maldives,"Gan, Maldives",Maldives,dhiraagu-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+ganavan-bay-united-kingdom,"Ganavan Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ganaveh-iran,"Ganaveh, Iran",Iran,kuwait-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+gav-spain,"Gavá, Spain",Spain,penbal-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+gedebak-odde-denmark,"Gedebak Odde, Denmark",Denmark,denmark-poland-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+gedser-denmark,"Gedser, Denmark",Denmark,baltica|elektra-globalconnect-1-gc1|germany-denmark-3|globalconnect-kpn,2022-12-19 22:59:40,2022-12-19 22:59:43
+genoa-italy,"Genoa, Italy",Italy,2africa|blue,2022-12-19 22:59:40,2022-12-19 22:59:43
+geoje-south-korea,"Geoje, South Korea",South Korea,flag-europe-asia-fea|seamewe-3|trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+george-town-bahamas,"George Town, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+georgetown-guyana,"Georgetown, Guyana",Guyana,deep-blue-one|suriname-guyana-submarine-cable-system-sg-scs|x-link-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+gianyar-indonesia,"Gianyar, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+gibraltar-gibraltar,"Gibraltar, Gibraltar",Gibraltar,europe-india-gateway-eig,2022-12-19 22:59:40,2022-12-19 22:59:43
+gimar-canary-islands-spain,"Güimar, Canary Islands, Spain",Spain,canalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+girne-cyprus,"Girne, Cyprus",Cyprus,turcyos-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+girvan-united-kingdom,"Girvan, United Kingdom",United Kingdom,scotland-northern-ireland-2|scotland-northern-ireland-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+glen-lyon-united-kingdom,"Glen Lyon, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+glenbarr-united-kingdom,"Glenbarr, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+golden-bay-malta,"Golden Bay, Malta",Malta,malta-gozo-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+golfo-aranci-italy,"Golfo Aranci, Italy",Italy,blue,2022-12-19 22:59:40,2022-12-19 22:59:43
+goonhilly-downs-united-kingdom,"Goonhilly Downs, United Kingdom",United Kingdom,seamewe-3|uk-channel-islands-8,2022-12-19 22:59:40,2022-12-19 22:59:43
+goose-bay-nl-canada,"Goose Bay, NL, Canada",Canada,leif-erikson,2022-12-19 22:59:40,2022-12-19 22:59:43
+governors-harbor-bahamas,"Governors Harbor, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+graciosa-portugal,"Graciosa, Portugal",Portugal,azores-fiber-optic-system-afos|flores-corvo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+gran-canaria-canary-islands-spain,"Gran Canaria, Canary Islands, Spain",Spain,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+granadilla-canary-islands-spain,"Granadilla, Canary Islands, Spain",Spain,africa-coast-to-europe-ace|canalink|tenerife-la-gomera-la-palma,2022-12-19 22:59:40,2022-12-19 22:59:43
+grand-baie-rodrigues-mauritius,"Grand Baie (Rodrigues), Mauritius",Mauritius,mauritius-and-rodrigues-submarine-cable-system-mars,2022-12-19 22:59:40,2022-12-19 22:59:43
+great-bay-beach-sint-maarten,"Great Bay Beach, Sint Maarten",Sint Maarten,saba-statia-cable-system-sscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+great-bay-virgin-islands-u-s-,"Great Bay, Virgin Islands (U.S.)",Virgin Islands (U.S.),st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+great-level-bay-bonaire-sint-eustatius-and-saba,"Great Level Bay, Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",saba-statia-cable-system-sscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+great-nicobar-india,"Great Nicobar, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+greve-de-lecq-jersey,"Greve de Lecq, Jersey",Jersey,guernsey-jersey-4|ingrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+groudle-bay-isle-of-man,"Groudle Bay, Isle of Man",Isle of Man,bt-mt-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+grover-beach-ca-united-states,"Grover Beach, CA, United States",United States,cap-1|pacific-crossing-1-pc-1|pan-american-crossing-pac,2022-12-19 22:59:40,2022-12-19 22:59:43
+guantanamo-bay-cuba,"Guantanamo Bay, Cuba",Cuba,gtmo-1|gtmo-pr,2022-12-19 22:59:40,2022-12-19 22:59:43
+guanyin-mountain-china,"Guanyin Mountain, China",China,cross-straits-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+guningtou-taiwan,"Guningtou, Taiwan",Taiwan,cross-straits-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+gustavia-saint-barthlemy,"Gustavia, Saint Barthélemy",Saint Barthélemy,saba-statia-cable-system-sscs|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+gwadar-pakistan,"Gwadar, Pakistan",Pakistan,peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+haifa-israel,"Haifa, Israel",Israel,mednautilus-submarine-system|tamares-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+haina-dominican-republic,"Haina, Dominican Republic",Dominican Republic,east-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+haines-ak-united-states,"Haines, AK, United States",United States,lynn-canal-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+half-moon-bay-cayman-islands,"Half Moon Bay, Cayman Islands",Cayman Islands,cayman-jamaica-fiber-system-cjfs|maya-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+halifax-ns-canada,"Halifax, NS, Canada",Canada,exa-express|exa-north-and-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+halul-island-qatar,"Halul Island, Qatar",Qatar,qatar-u-a-e-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+hanko-finland,"Hanko, Finland",Finland,bcs-north---phase-1|c-lion1|eastern-light,2022-12-19 22:59:40,2022-12-19 22:59:43
+hanstholm-denmark,"Hanstholm, Denmark",Denmark,havsil,2022-12-19 22:59:40,2022-12-19 22:59:43
+hao-french-polynesia,"Hao, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+haql-saudi-arabia,"Haql, Saudi Arabia",Saudi Arabia,saudi-vision,2022-12-19 22:59:40,2022-12-19 22:59:43
+haradsholm-finland,"Haradsholm, Finland",Finland,bcs-north---phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+haramous-djibouti,"Haramous, Djibouti",Djibouti,eastern-africa-submarine-system-eassy|europe-india-gateway-eig|raman|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+harbour-pointe-wa-united-states,"Harbour Pointe, WA, United States",United States,pacific-crossing-1-pc-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+harbour-view-jamaica,"Harbour View, Jamaica",Jamaica,east-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+havelet-bay-guernsey,"Havelet Bay, Guernsey",Guernsey,ingrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+havelock-india,"Havelock, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+hawaii-kai-hi-united-states,"Hawaii Kai, HI, United States",United States,paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+hawk-inlet-ak-united-states,"Hawk Inlet, AK, United States",United States,alaska-united-southeast-au-se,2022-12-19 22:59:40,2022-12-19 22:59:43
+hawksbill-bahamas,"Hawksbill, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni|bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+heim-norway,"Åheim, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+helsingborg-sweden,"Helsingborg, Sweden",Sweden,denmark-sweden-15|denmark-sweden-18|scandinavian-ring-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+helsingr-denmark,"Helsingør, Denmark",Denmark,denmark-sweden-15|denmark-sweden-18|scandinavian-ring-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+helsinki-finland,"Helsinki, Finland",Finland,baltic-sea-submarine-cable|bcs-north---phase-1|bcs-north---phase-2|c-lion1|eastern-light|finland-estonia-2-eesf-2|finland-estonia-3-eesf-3|finland-estonia-connection-fec,2022-12-19 22:59:40,2022-12-19 22:59:43
+hemnesberget-norway,"Hemnesberget, Norway",Norway,tverrlinken,2022-12-19 22:59:40,2022-12-19 22:59:43
+herlandsvika-norway,"Herlandsvika, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+hermosa-beach-ca-united-states,"Hermosa Beach, CA, United States",United States,jupiter|sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+highbridge-united-kingdom,"Highbridge, United Kingdom",United Kingdom,tata-tgn-atlantic|tata-tgn-western-europe,2022-12-19 22:59:40,2022-12-19 22:59:43
+higuerote-venezuela,"Higuerote, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+hillsboro-or-united-states,"Hillsboro, OR, United States",United States,hawaiki|northstar|southern-cross-cable-network-sccn|tata-tgn-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+hirtshals-denmark,"Hirtshals, Denmark",Denmark,skagenfiber-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+hithadhoo-maldives,"Hithadhoo, Maldives",Maldives,dhiraagu-cable-network|nationwide-submarine-cable-ooredoo-maldives-nascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+hiva-oa-french-polynesia,"Hiva Oa, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+hobyo-somalia,"Hobyo, Somalia",Somalia,peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+hollywood-fl-united-states,"Hollywood, FL, United States",United States,america-movil-submarine-cable-system-1-amx-1|americas-ii|maya-1|mid-atlantic-crossing-mac,2022-12-19 22:59:40,2022-12-19 22:59:43
+holyhead-united-kingdom,"Holyhead, United Kingdom",United Kingdom,celtixconnect-1-cc-1|emerald-bridge-fibres,2022-12-19 22:59:40,2022-12-19 22:59:43
+homer-ak-united-states,"Homer, AK, United States",United States,acs-alaska-oregon-network-akorn|kodiak-kenai-fiber-link-kkfl|terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+honiara-solomon-islands,"Honiara, Solomon Islands",Solomon Islands,coral-sea-cable-system-cs,2022-12-19 22:59:40,2022-12-19 22:59:43
+houstrup-denmark,"Houstrup, Denmark",Denmark,havhingstennorth-sea-connect-nsc,2022-12-19 22:59:40,2022-12-19 22:59:43
+huahine-french-polynesia,"Huahine, French Polynesia",French Polynesia,honotua,2022-12-19 22:59:40,2022-12-19 22:59:43
+hudishibana-aruba,"Hudishibana, Aruba",Aruba,pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+hulhumale-maldives,"Hulhumale, Maldives",Maldives,dhiraagu-cable-network|india-asia-xpress-iax|maldives-sri-lanka-cable-msc|nationwide-submarine-cable-ooredoo-maldives-nascom|seamewe,2022-12-19 22:59:40,2022-12-19 22:59:43
+humacao-pr-united-states,"Humacao, PR, United States",United States,boriken-submarine-cable-system-bscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+hyllestad-norway,"Hyllestad, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+ibaraki-japan,"Ibaraki, Japan",Japan,japan-information-highway-jih,2022-12-19 22:59:40,2022-12-19 22:59:43
+igiugig-ak-united-states,"Igiugig, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+igneada-turkey,"Igneada, Turkey",Turkey,kafos,2022-12-19 22:59:40,2022-12-19 22:59:43
+ijmuiden-netherlands,"Ijmuiden, Netherlands",Netherlands,scylla|ulysses-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+ilhus-brazil,"Ilhéus, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+illiamna-ak-united-states,"Illiamna, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+ilo-peru,"Ilo, Peru",Peru,fibra-optica-al-pacfico,2022-12-19 22:59:40,2022-12-19 22:59:43
+iloilo-city-philippines,"Iloilo City, Philippines",Philippines,national-digital-transmission-network-ndtn,2022-12-19 22:59:40,2022-12-19 22:59:43
+ilyich-russia,"Ilyich, Russia",Russia,kerch-strait-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+inukjuak-qc-canada,"Inukjuak, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+invercargill-new-zealand,"Invercargill, New Zealand",New Zealand,hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+inverloch-vic-australia,"Inverloch, VIC, Australia",Australia,bass-strait-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+iqaluit-nu-canada,"Iqaluit, NU, Canada",Canada,sednalink-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+iquique-chile,"Iquique, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+ishikari-japan,"Ishikari, Japan",Japan,hokkaido-sakhalin-cable-system-hscs|japan-information-highway-jih,2022-12-19 22:59:40,2022-12-19 22:59:43
+iskele-cyprus,"Iskele, Cyprus",Cyprus,turcyos-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+isla-de-cozumel-mexico,"Isla de Cozumel, Mexico",Mexico,ixchel,2022-12-19 22:59:40,2022-12-19 22:59:43
+isla-verde-pr-united-states,"Isla Verde, PR, United States",United States,antillas-1|arcos|sint-maarten-puerto-rico-network-one-smpr-1|taino-carib,2022-12-19 22:59:40,2022-12-19 22:59:43
+island-park-ny-united-states,"Island Park, NY, United States",United States,flag-atlantic-1-fa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+istanbul-turkey,"Istanbul, Turkey",Turkey,kafos|mednautilus-submarine-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ivujivik-qc-canada,"Ivujivik, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+ixtapa-mexico,"Ixtapa, Mexico",Mexico,lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+jacksonville-fl-united-states,"Jacksonville, FL, United States",United States,america-movil-submarine-cable-system-1-amx-1|confluence-1|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+jakarta-indonesia,"Jakarta, Indonesia",Indonesia,apricot|asia-connect-cable-1-acc1|b2js-jakarta-bangka-batam-singapore-cable-system|bifrost|hawaiki-nui|indigo-west|indonesia-global-gateway-igg-system|jakarta-bangka-bintan-batam-singapore-b3js|jasuka|matrix-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+jambi-indonesia,"Jambi, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+jarry-guadeloupe,"Jarry, Guadeloupe",Guadeloupe,global-caribbean-network-gcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+jask-iran,"Jask, Iran",Iran,omranepeg-cable-system|pishgaman-oman-iran-poi-network|uae-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+jayapura-indonesia,"Jayapura, Indonesia",Indonesia,kumul-domestic-submarine-cable-system|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+jdaide-lebanon,"Jdaide, Lebanon",Lebanon,cadmos,2022-12-19 22:59:40,2022-12-19 22:59:43
+jeddah-saudi-arabia,"Jeddah, Saudi Arabia",Saudi Arabia,2africa|asia-africa-europe-1-aae-1|europe-india-gateway-eig|falcon|flag-europe-asia-fea|imewe|middle-east-north-africa-mena-cable-systemgulf-bridge-international|peace-cable|saudi-arabia-sudan-1-sas-1|saudi-arabia-sudan-2-sas-2|saudi-vision|seacomtata-tgn-eurasia|seamewe-3|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+jimbaran-indonesia,"Jimbaran, Indonesia",Indonesia,link-2-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+joo-pessoa-brazil,"João Pessoa, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+juneau-ak-united-states,"Juneau, AK, United States",United States,alaska-united-east-au-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+kagoshima-japan,"Kagoshima, Japan",Japan,okinawa-cellular-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kahe-point-hi-united-states,"Kahe Point, HI, United States",United States,southern-cross-cable-network-sccn,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaikoura-new-zealand,"Kaikoura, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaimana-indonesia,"Kaimana, Indonesia",Indonesia,smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+kalba-united-arab-emirates,"Kalba, United Arab Emirates",United Arab Emirates,2africa|africa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+kalianda-indonesia,"Kalianda, Indonesia",Indonesia,biznet-nusantara-cable-system-1-bncs-1|sjjk,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaliko-haiti,"Kaliko, Haiti",Haiti,fibralink,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaliningrad-russia,"Kaliningrad, Russia",Russia,kaliningrad-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kamorta-india,"Kamorta, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kangiqsujuaq-qc-canada,"Kangiqsujuaq, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+kapolei-hi-united-states,"Kapolei, HI, United States",United States,hawaiki|hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+karachi-pakistan,"Karachi, Pakistan",Pakistan,2africa|africa-1|asia-africa-europe-1-aae-1|imewe|peace-cable|seamewe|seamewe-3|seamewe-4|seamewe-5|transworld-tw1,2022-12-19 22:59:40,2022-12-19 22:59:43
+karimun-indonesia,"Karimun, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+katong-singapore,"Katong, Singapore",Singapore,apcn-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+katthammarsvik-sweden,"Katthammarsvik, Sweden",Sweden,bcs-east-west-interlink,2022-12-19 22:59:40,2022-12-19 22:59:43
+kauditan-indonesia,"Kauditan, Indonesia",Indonesia,sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaukura-french-polynesia,"Kaukura, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaunakakai-hi-united-states,"Kaunakakai, HI, United States",United States,hifn-hawaii-island-fibre-network|paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kavieng-papua-new-guinea,"Kavieng, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kawaihae-hi-united-states,"Kawaihae, HI, United States",United States,hawaiki-nui|hics-hawaii-inter-island-cable-system|hifn-hawaii-island-fibre-network|honotua|paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kaweni-mayotte,"Kaweni, Mayotte",Mayotte,fly-lion3|lower-indian-ocean-network-2-lion2,2022-12-19 22:59:40,2022-12-19 22:59:43
+kawinda-nae-indonesia,"Kawinda Nae, Indonesia",Indonesia,link-1-phase-1|link-3-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+keawaula-hi-united-states,"Keawaula, HI, United States",United States,asia-america-gateway-aag-cable-system|telstra-endeavour,2022-12-19 22:59:40,2022-12-19 22:59:43
+kekaha-hi-united-states,"Kekaha, HI, United States",United States,paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kelibia-tunisia,"Kelibia, Tunisia",Tunisia,didon|hannibal-system|trapani-kelibia,2022-12-19 22:59:40,2022-12-19 22:59:43
+kenai-ak-united-states,"Kenai, AK, United States",United States,kodiak-kenai-fiber-link-kkfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+kendal-indonesia,"Kendal, Indonesia",Indonesia,jakarta-surabaya-cable-system-jayabaya,2022-12-19 22:59:40,2022-12-19 22:59:43
+kendari-indonesia,"Kendari, Indonesia",Indonesia,palapa-ring-middle|smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+kep-aru-indonesia,"Kep. Aru, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+kerch-ukraine,"Kerch, Ukraine",Ukraine,kerch-strait-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kerema-papua-new-guinea,"Kerema, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ketapang-indonesia,"Ketapang, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+ketchikan-ak-united-states,"Ketchikan, AK, United States",United States,alaska-united-southeast-au-se|alaska-united-west-au-west|ketchcan1-submarine-fiber-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kg-buntai-malaysia,"Kg Buntai, Malaysia",Malaysia,batam-sarawak-internet-cable-system-basics,2022-12-19 22:59:40,2022-12-19 22:59:43
+khark-island-iran,"Khark Island, Iran",Iran,kuwait-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+khasab-oman,"Khasab, Oman",Oman,falcon|omranepeg-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kiamsam-malaysia,"Kiamsam, Malaysia",Malaysia,labuan-brunei-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kihei-maui-hi-united-states,"Kihei, Maui, HI, United States",United States,hics-hawaii-inter-island-cable-system|hifn-hawaii-island-fibre-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kikori-papua-new-guinea,"Kikori, Papua New Guinea",Papua New Guinea,png-lng,2022-12-19 22:59:40,2022-12-19 22:59:43
+kilchatten-bay-united-kingdom,"Kilchatten Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kilchoan-ferry-united-kingdom,"Kilchoan Ferry, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+killala-ireland,"Killala, Ireland",Ireland,aec-1|celtic-norse,2022-12-19 22:59:40,2022-12-19 22:59:43
+kilmore-quay-ireland,"Kilmore Quay, Ireland",Ireland,esat-1|solas,2022-12-19 22:59:40,2022-12-19 22:59:43
+kimbe-papua-new-guinea,"Kimbe, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+king-cove-ak-united-states,"King Cove, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+kingisepp-russia,"Kingisepp, Russia",Russia,kaliningrad-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kingston-on-canada,"Kingston, ON, Canada",Canada,maple-leaf-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+kingstown-saint-vincent-and-the-grenadines,"Kingstown, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip|eastern-caribbean-fiber-system-ecfs|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+kiritimati-kiribati,"Kiritimati, Kiribati",Kiribati,southern-cross-next,2022-12-19 22:59:40,2022-12-19 22:59:43
+kismayo-somalia,"Kismayo, Somalia",Somalia,peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kita-kyushu-japan,"Kita-kyushu, Japan",Japan,guam-okinawa-kyushu-incheon-goki|korea-japan-cable-network-kjcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+kitaibaraki-japan,"Kitaibaraki, Japan",Japan,apcn-2|japan-u-s-cable-network-jus,2022-12-19 22:59:40,2022-12-19 22:59:43
+klagshamn-sweden,"Klagshamn, Sweden",Sweden,ip-only-denmark-sweden,2022-12-19 22:59:40,2022-12-19 22:59:43
+klaipeda-lithuania,"Klaipeda, Lithuania",Lithuania,nordbalt,2022-12-19 22:59:40,2022-12-19 22:59:43
+ko-olina-hi-united-states,"Ko Olina, HI, United States",United States,hics-hawaii-inter-island-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kodiak-ak-united-states,"Kodiak, AK, United States",United States,au-aleutian|kodiak-kenai-fiber-link-kkfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+kokar-indonesia,"Kokar, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+kokhanok-ak-united-states,"Kokhanok, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+kokkini-greece,"Kokkini, Greece",Greece,oteglobe-kokkini-bari,2022-12-19 22:59:40,2022-12-19 22:59:43
+koko-head-hi-united-states,"Koko Head, HI, United States",United States,hics-hawaii-inter-island-cable-system|hifn-hawaii-island-fibre-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kokopo-papua-new-guinea,"Kokopo, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+kolhufushi-maldives,"Kolhufushi, Maldives",Maldives,nationwide-submarine-cable-ooredoo-maldives-nascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+kolobrzeg-poland,"Kolobrzeg, Poland",Poland,baltica,2022-12-19 22:59:40,2022-12-19 22:59:43
+komesu-japan,"Komesu, Japan",Japan,asia-submarine-cable-express-asecahaya-malaysia,2022-12-19 22:59:40,2022-12-19 22:59:43
+korakia-greece,"Korakia, Greece",Greece,apollo-east-and-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+korsor-denmark,"Korsor, Denmark",Denmark,globalconnect-3-gc3,2022-12-19 22:59:40,2022-12-19 22:59:43
+kota-kinabalu-malaysia,"Kota Kinabalu, Malaysia",Malaysia,sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+kota-mappi-indonesia,"Kota Mappi, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+kotka-finland,"Kotka, Finland",Finland,bcs-north---phase-2|eastern-light,2022-12-19 22:59:40,2022-12-19 22:59:43
+kotzebue-ak-united-states,"Kotzebue, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kourou-french-guiana,"Kourou, French Guiana",French Guiana,kanawa,2022-12-19 22:59:40,2022-12-19 22:59:43
+krabozavodskoye-russia,"Krabozavodskoye, Russia",Russia,sakhalin-kuril-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kralendijk-bonaire-netherlands,"Kralendijk, Bonaire, Netherlands",Netherlands,amerigo-vespucci,2022-12-19 22:59:40,2022-12-19 22:59:43
+krdla-estonia,"Kärdla, Estonia",Estonia,sweden-estonia-ee-s-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+kribi-cameroon,"Kribi, Cameroon",Cameroon,africa-coast-to-europe-ace|ceiba-2|nigeria-cameroon-submarine-cable-system-ncscs|south-atlantic-inter-link-sail,2022-12-19 22:59:40,2022-12-19 22:59:43
+kristiansand-norway,"Kristiansand, Norway",Norway,havfrueaec-2|havsil|skagerrak-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+kristiansund-norway,"Kristiansund, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+kristinelund-sweden,"Kristinelund, Sweden",Sweden,denmark-sweden-17,2022-12-19 22:59:40,2022-12-19 22:59:43
+krst-norway,"Kårstø, Norway",Norway,eviny-digital|tampnet-offshore-foc-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuakata-bangladesh,"Kuakata, Bangladesh",Bangladesh,seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuala-tungkal-indonesia,"Kuala Tungkal, Indonesia",Indonesia,jambi-batam-cable-system-jiba|link-5-phase-2|palapa-ring-west|pgascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuantan-malaysia,"Kuantan, Malaysia",Malaysia,apcn-2|asia-pacific-gateway-apg,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuching-malaysia,"Kuching, Malaysia",Malaysia,east-west-submarine-cable-system|sea-h2x|sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+kulhudhufushi-maldives,"Kulhudhufushi, Maldives",Maldives,dhiraagu-cable-network|nationwide-submarine-cable-ooredoo-maldives-nascom|peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kungsbacka-sweden,"Kungsbacka, Sweden",Sweden,globalconnect-2-gc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+kupang-indonesia,"Kupang, Indonesia",Indonesia,kupang-alor-cable-systems|mataram-kupang-cable-system-mkcs|palapa-ring-east|sape-labuanbajo-ende-kupang-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+kurilsk-russia,"Kurilsk, Russia",Russia,sakhalin-kuril-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuujjuarapik-qc-canada,"Kuujjuarapik, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+kuwait-city-kuwait,"Kuwait City, Kuwait",Kuwait,2africa|fiber-optic-gulf-fog|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system|kuwait-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+kwa-ibo-nigeria,"Kwa Ibo, Nigeria",Nigeria,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+kwajalein-marshall-islands,"Kwajalein, Marshall Islands",Marshall Islands,hantru1-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-guaira-venezuela,"La Guaira, Venezuela",Venezuela,alba-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-lnea-spain,"La Línea, Spain",Spain,dos-continentes-l-ll,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-paz-mexico,"La Paz, Mexico",Mexico,gulf-of-california-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-serena-chile,"La Serena, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-seyne-france,"La Seyne, France",France,corse-continent-5-cc5,2022-12-19 22:59:40,2022-12-19 22:59:43
+la-union-philippines,"La Union, Philippines",Philippines,asia-america-gateway-aag-cable-system|sea-h2x,2022-12-19 22:59:40,2022-12-19 22:59:43
+labuan-bajo-indonesia,"Labuan Bajo, Indonesia",Indonesia,sape-labuanbajo-ende-kupang-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+labuha-indonesia,"Labuha, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+lae-papua-new-guinea,"Lae, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+laeso-denmark,"Laeso, Denmark",Denmark,energinet-laeso-varberg|energinet-lyngsa-laeso,2022-12-19 22:59:40,2022-12-19 22:59:43
+lagavulin-united-kingdom,"Lagavulin, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+lagos-nigeria,"Lagos, Nigeria",Nigeria,2africa|africa-coast-to-europe-ace|equiano|glo-1|mainone|nigeria-cameroon-submarine-cable-system-ncscs|sat-3wasc|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+lahaina-hi-united-states,"Lahaina, HI, United States",United States,paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+lake-ci-taiwan,"Lake Ci, Taiwan",Taiwan,cross-straits-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+lakudo-indonesia,"Lakudo, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+lamaline-nl-canada,"Lamaline, NL, Canada",Canada,st-pierre-and-miquelon-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+landeyjar-iceland,"Landeyjar, Iceland",Iceland,danice|greenland-connect,2022-12-19 22:59:40,2022-12-19 22:59:43
+lannion-france,"Lannion, France",France,apollo|high-capacity-undersea-guernsey-optical-fibre-hugo,2022-12-19 22:59:40,2022-12-19 22:59:43
+lantau-island-china,"Lantau Island, China",HongKong,apcn-2|asia-america-gateway-aag-cable-system|flag-europe-asia-fea,2022-12-19 22:59:40,2022-12-19 22:59:43
+largs-united-kingdom,"Largs, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+larne-united-kingdom,"Larne, United Kingdom",United Kingdom,scotland-northern-ireland-2|scotland-northern-ireland-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+larsen-bay-ak-united-states,"Larsen Bay, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+larvik-norway,"Larvik, Norway",Norway,skagenfiber-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+las-caletillas-spain,"Las Caletillas, Spain",Spain,subcan-link-1|subcan-link-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+las-toninas-argentina,"Las Toninas, Argentina",Argentina,bicentenario|firmina|malbec|south-america-1-sam-1|south-american-crossing-sac|tannat|unisur,2022-12-19 22:59:40,2022-12-19 22:59:43
+le-lamentin-martinique,"Le Lamentin, Martinique",Martinique,americas-ii|eastern-caribbean-fiber-system-ecfs|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+le-porge-france,"Le Porge, France",France,amitie,2022-12-19 22:59:40,2022-12-19 22:59:43
+le-port-runion,"Le Port, Réunion",Réunion,meltingpot-indianoceanic-submarine-system-metiss,2022-12-19 22:59:40,2022-12-19 22:59:43
+leava-wallis-and-futuna,"Leava, Wallis and Futuna",Wallis and Futuna,tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+lecanvey-ireland,"Lecanvey, Ireland",Ireland,havfrueaec-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+lefdal-norway,"Lefdal, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+leganes-philippines,"Leganes, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+legazpi-city-philippines,"Legazpi City, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+lena-point-ak-united-states,"Lena Point, AK, United States",United States,lynn-canal-fiber|northstar|sealink,2022-12-19 22:59:40,2022-12-19 22:59:43
+les-les-de-la-madeleine-qc-canada,"Les Îles-de-la-Madeleine, QC, Canada",Canada,cogim,2022-12-19 22:59:40,2022-12-19 22:59:43
+lesund-norway,"Ålesund, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+letkokkon-myanmar,"Letkokkon, Myanmar",Myanmar,mist,2022-12-19 22:59:40,2022-12-19 22:59:43
+leverburgh-united-kingdom,"Leverburgh, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+levin-new-zealand,"Levin, New Zealand",New Zealand,nelson-levin,2022-12-19 22:59:40,2022-12-19 22:59:43
+libreville-gabon,"Libreville, Gabon",Gabon,2africa|africa-coast-to-europe-ace|libreville-port-gentil-cable|maroc-telecom-west-africa|sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+liepaja-latvia,"Liepaja, Latvia",Latvia,bcs-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+lihue-hi-united-states,"Lihue, HI, United States",United States,hics-hawaii-inter-island-cable-system|hifn-hawaii-island-fibre-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+limbe-cameroon,"Limbe, Cameroon",Cameroon,west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+linao-chile,"Linao, Chile",Chile,segunda-fos-canal-de-chacao,2022-12-19 22:59:40,2022-12-19 22:59:43
+lingang-china,"Lingang, China",China,new-cross-pacific-ncp-cable-system|southeast-asia-japan-cable-2-sjc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+lingga-indonesia,"Lingga, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+lingshui-china,"Lingshui, China",China,sea-h2x,2022-12-19 22:59:40,2022-12-19 22:59:43
+lisbon-portugal,"Lisbon, Portugal",Portugal,equiano|medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+little-andaman-india,"Little Andaman, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+lle-rousse-france,"L’Île-Rousse, France",France,corse-continent-4-cc4,2022-12-19 22:59:40,2022-12-19 22:59:43
+lochmaddy-united-kingdom,"Lochmaddy, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+logi-russia,"Logi, Russia",Russia,bcs-north---phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+lombok-indonesia,"Lombok, Indonesia",Indonesia,denpasar-waingapu-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+lome-togo,"Lome, Togo",Togo,equiano|maroc-telecom-west-africa|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+long-island-india,"Long Island, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+longyearbyen-svalbard-norway,"Longyearbyen, Svalbard, Norway",Norway,svalbard-undersea-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+lorengau-papua-new-guinea,"Lorengau, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+los-angeles-ca-united-states,"Los Angeles, CA, United States",United States,hawaiki-nui|southern-cross-next|tata-tgn-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+los-realejos-canary-islands-spain,"Los Realejos, Canary Islands, Spain",Spain,tenerife-la-palma,2022-12-19 22:59:40,2022-12-19 22:59:43
+loughshinny-ireland,"LoughShinny, Ireland",Ireland,havhingstenceltixconnect-2-cc-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+lowestoft-united-kingdom,"Lowestoft, United Kingdom",United Kingdom,circe-north|scylla|tampnet-offshore-foc-network|ulysses-2|zeus,2022-12-19 22:59:40,2022-12-19 22:59:43
+luanda-angola,"Luanda, Angola",Angola,2africa|nzadi-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+lucena-philippines,"Lucena, Philippines",Philippines,national-digital-transmission-network-ndtn,2022-12-19 22:59:40,2022-12-19 22:59:43
+ludag-united-kingdom,"Ludag, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+lurin-peru,"Lurin, Peru",Peru,fibra-optica-al-pacfico|south-america-1-sam-1|south-american-crossing-sac|south-pacific-cable-system-spscmistral,2022-12-19 22:59:40,2022-12-19 22:59:43
+lusk-ireland,"Lusk, Ireland",Ireland,geo-eirgrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+luwuk-indonesia,"Luwuk, Indonesia",Indonesia,luwuk-tutuyan-cable-system-ltcs|palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+lyngsa-denmark,"Lyngsa, Denmark",Denmark,energinet-lyngsa-laeso|kattegat-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+lynn-ma-united-states,"Lynn, MA, United States",United States,amitie|exa-north-and-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+lynnwood-wa-united-states,"Lynnwood, WA, United States",United States,alaska-united-east-au-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+maca-brazil,"Macaé, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+macao-beach-dominican-republic,"Macao Beach, Dominican Republic",Dominican Republic,boriken-submarine-cable-system-bscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+macei-brazil,"Maceió, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+madang-papua-new-guinea,"Madang, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system|pipe-pacific-cable-1-ppc-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+madura-indonesia,"Madura, Indonesia",Indonesia,indonesia-global-gateway-igg-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+magachgil-yap-micronesia,"Magachgil, Yap, Micronesia",Micronesia,sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+magens-bay-vi-united-states,"Magen’s Bay, VI, United States",United States,americas-i-north|columbus-ii-b|taino-carib,2022-12-19 22:59:40,2022-12-19 22:59:43
+mahajanga-madagascar,"Mahajanga, Madagascar",Madagascar,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+mahuma-curaao,"Mahuma, Curaçao",Curaçao,pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+maiquetia-venezuela,"Maiquetia, Venezuela",Venezuela,globenet,2022-12-19 22:59:40,2022-12-19 22:59:43
+majuro-marshall-islands,"Majuro, Marshall Islands",Marshall Islands,hantru1-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+makaha-hi-united-states,"Makaha, HI, United States",United States,hifn-hawaii-island-fibre-network|japan-u-s-cable-network-jus|paniolo-cable-network|sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+makassar-indonesia,"Makassar, Indonesia",Indonesia,asia-connect-cable-1-acc1|indonesia-global-gateway-igg-system|s-u-b-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+makemo-french-polynesia,"Makemo, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+makena-hi-united-states,"Makena, HI, United States",United States,paniolo-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+malabo-equatorial-guinea,"Malabo, Equatorial Guinea",Equatorial Guinea,ceiba-1|ceiba-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+maldonado-uruguay,"Maldonado, Uruguay",Uruguay,bicentenario|tannat|unisur,2022-12-19 22:59:40,2022-12-19 22:59:43
+male-maldives,"Male, Maldives",Maldives,dhiraagu-slt-submarine-cable-network|falcon,2022-12-19 22:59:40,2022-12-19 22:59:43
+mallaigvaig-united-kingdom,"Mallaigvaig, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+mamoudzou-mayotte,"Mamoudzou, Mayotte",Mayotte,avassa,2022-12-19 22:59:40,2022-12-19 22:59:43
+manado-indonesia,"Manado, Indonesia",Indonesia,asia-connect-cable-1-acc1|indonesia-global-gateway-igg-system|palapa-ring-middle|smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+manama-bahrain,"Manama, Bahrain",Bahrain,2africa|falcon|fiber-optic-gulf-fog,2022-12-19 22:59:40,2022-12-19 22:59:43
+manasquan-nj-united-states,"Manasquan, NJ, United States",United States,apollo|gemini-bermuda,2022-12-19 22:59:40,2022-12-19 22:59:43
+manchester-ca-united-states,"Manchester, CA, United States",United States,japan-u-s-cable-network-jus,2022-12-19 22:59:40,2022-12-19 22:59:43
+mancora-peru,"Mancora, Peru",Peru,south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+manele-bay-hi-united-states,"Manele Bay, HI, United States",United States,hifn-hawaii-island-fibre-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+mangalia-romania,"Mangalia, Romania",Romania,kafos,2022-12-19 22:59:40,2022-12-19 22:59:43
+mangawhai-new-zealand,"Mangawhai, New Zealand",New Zealand,hawaiki,2022-12-19 22:59:40,2022-12-19 22:59:43
+manihi-french-polynesia,"Manihi, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+maniitsoq-greenland,"Maniitsoq, Greenland",Greenland,greenland-connect-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+manokwari-indonesia,"Manokwari, Indonesia",Indonesia,palapa-ring-east|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+manta-ecuador,"Manta, Ecuador",Ecuador,aurora-cable-system|galapagos-cable-system|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+manzanillo-mexico,"Manzanillo, Mexico",Mexico,lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+maputo-mozambique,"Maputo, Mozambique",Mozambique,2africa|eastern-africa-submarine-system-eassy|seacomtata-tgn-eurasia,2022-12-19 22:59:40,2022-12-19 22:59:43
+maracaibo-venezuela,"Maracaibo, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+maria-chiquita-panama,"Maria Chiquita, Panama",Panama,arcos|aurora-cable-system|caribbean-express-cx|maya-1|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+mariehamn-finland,"Mariehamn, Finland",Finland,bcs-north---phase-1|sweden-finland-link-sfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+marina-di-ragusa-italy,"Marina di Ragusa, Italy",Italy,malta-italy-interconnector,2022-12-19 22:59:40,2022-12-19 22:59:43
+markgrafenheide-germany,"Markgrafenheide, Germany",Germany,germany-denmark-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+marmaris-turkey,"Marmaris, Turkey",Turkey,seamewe-3|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+maroochydore-qld-australia,"Maroochydore, QLD, Australia",Australia,japan-guam-australia-south-jga-s,2022-12-19 22:59:40,2022-12-19 22:59:43
+marseille-france,"Marseille, France",France,2africa|africa-1|asia-africa-europe-1-aae-1|atlas-offshore|blue|hawk|imewe|med-cable-network|medusa-submarine-cable-system|peace-cable|seamewe|seamewe-4|te-northtgn-eurasiaseacomalexandrosmedex,2022-12-19 22:59:40,2022-12-19 22:59:43
+maruyama-japan,"Maruyama, Japan",Japan,asia-direct-cable-adc|asia-pacific-gateway-apg|asia-submarine-cable-express-asecahaya-malaysia|australia-japan-cable-ajc|japan-u-s-cable-network-jus|jupiter|new-cross-pacific-ncp-cable-system|trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+masbate-city-philippines,"Masbate City, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn|pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+masohi-indonesia,"Masohi, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+mata-utu-wallis-and-futuna,"Mata-Utu, Wallis and Futuna",Wallis and Futuna,tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+matara-sri-lanka,"Matara, Sri Lanka",Sri Lanka,india-asia-xpress-iax|seamewe|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+mataram-indonesia,"Mataram, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+matthew-town-bahamas,"Matthew Town, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+mayaguana-bahamas,"Mayaguana, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+maywick-united-kingdom,"Maywick, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+mazara-del-vallo-italy,"Mazara del Vallo, Italy",Italy,didon|go-1-mediterranean-cable-system|hannibal-system|italy-libya|janna|lev-submarine-system|medusa-submarine-cable-system|middle-east-north-africa-mena-cable-systemgulf-bridge-international|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+mazatln-mexico,"Mazatlán, Mexico",Mexico,pan-american-crossing-pac,2022-12-19 22:59:40,2022-12-19 22:59:43
+mcgaurans-beach-vic-australia,"McGaurans Beach, VIC, Australia",Australia,basslink,2022-12-19 22:59:40,2022-12-19 22:59:43
+mchugh-point-ak-united-states,"McHugh Point, AK, United States",United States,alaska-united-turnagain-arm-auta,2022-12-19 22:59:40,2022-12-19 22:59:43
+medan-indonesia,"Medan, Indonesia",Indonesia,asia-connect-cable-1-acc1|damai-cable-system|jasuka|seamewe-3|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+meimen-chile,"Meimen, Chile",Chile,segunda-fos-canal-de-chacao,2022-12-19 22:59:40,2022-12-19 22:59:43
+melaka-malaysia,"Melaka, Malaysia",Malaysia,batam-dumai-melaka-bdm-cable-system|dumai-melaka-cable-system|seamewe-4|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+melbourne-vic-australia,"Melbourne, VIC, Australia",Australia,hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+melkbosstrand-south-africa,"Melkbosstrand, South Africa",South Africa,equiano|safe|sat-3wasc,2022-12-19 22:59:40,2022-12-19 22:59:43
+mellieha-malta,"Mellieha, Malta",Malta,peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+melonguane-indonesia,"Melonguane, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+mentigi-indonesia,"Mentigi, Indonesia",Indonesia,link-3-phase-2|link-4-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+merauke-indonesia,"Merauke, Indonesia",Indonesia,smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+meremisa-estonia,"Meremöisa, Estonia",Estonia,finland-estonia-3-eesf-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+mersing-malaysia,"Mersing, Malaysia",Malaysia,asia-america-gateway-aag-cable-system|asia-submarine-cable-express-asecahaya-malaysia|east-west-submarine-cable-system|sea-h2x|seamewe-3|seax-1|sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+mestre-italy,"Mestre, Italy",Italy,italy-croatia,2022-12-19 22:59:40,2022-12-19 22:59:43
+mgarr-ix-xini-malta,"Mgarr ix-Xini, Malta",Malta,malta-gozo-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+mielno-poland,"Mielno, Poland",Poland,denmark-poland-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+milagros-philippines,"Milagros, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+milton-nl-canada,"Milton, NL, Canada",Canada,greenland-connect,2022-12-19 22:59:40,2022-12-19 22:59:43
+minamiboso-japan,"Minamiboso, Japan",Japan,apricot|japan-guam-australia-north-jga-n,2022-12-19 22:59:40,2022-12-19 22:59:43
+miquelon-langlade-saint-pierre-and-miquelon,"Miquelon-Langlade, Saint Pierre and Miquelon",Saint Pierre and Miquelon,st-pierre-and-miquelon-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+miramar-pr-united-states,"Miramar, PR, United States",United States,americas-ii|antillas-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+miri-malaysia,"Miri, Malaysia",Malaysia,sistem-kabel-rakyat-1malaysia-skr1m,2022-12-19 22:59:40,2022-12-19 22:59:43
+misrata-libya,"Misrata, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+miura-japan,"Miura, Japan",Japan,flag-europe-asia-fea,2022-12-19 22:59:40,2022-12-19 22:59:43
+miyazaki-japan,"Miyazaki, Japan",Japan,japan-information-highway-jih|miyazaki-okinawa-cable-moc,2022-12-19 22:59:40,2022-12-19 22:59:43
+mo-i-rana-norway,"Mo I Rana, Norway",Norway,tverrlinken,2022-12-19 22:59:40,2022-12-19 22:59:43
+mocha-yemen,"Mocha, Yemen",Yemen,africa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+mogadishu-somalia,"Mogadishu, Somalia",Somalia,2africa|djibouti-africa-regional-express-1-dare1|eastern-africa-submarine-system-eassy|peace-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+molde-norway,"Molde, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+mombasa-kenya,"Mombasa, Kenya",Kenya,2africa|africa-1|djibouti-africa-regional-express-1-dare1|eastern-africa-submarine-system-eassy|peace-cable|seacomtata-tgn-eurasia|the-east-african-marine-system-teams,2022-12-19 22:59:40,2022-12-19 22:59:43
+monaco-monaco,"Monaco, Monaco",Monaco,europe-india-gateway-eig,2022-12-19 22:59:40,2022-12-19 22:59:43
+monrovia-liberia,"Monrovia, Liberia",Liberia,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+mont-dore-new-caledonia,"Mont-Dore, New Caledonia",New Caledonia,gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+monte-carlo-monaco,"Monte Carlo, Monaco",Monaco,italy-monaco,2022-12-19 22:59:40,2022-12-19 22:59:43
+montego-bay-jamaica,"Montego Bay, Jamaica",Jamaica,cayman-jamaica-fiber-system-cjfs|fibralink|jscfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+moorea-french-polynesia,"Moorea, French Polynesia",French Polynesia,honotua,2022-12-19 22:59:40,2022-12-19 22:59:43
+morant-point-jamaica,"Morant Point, Jamaica",Jamaica,colombia-florida-subsea-fiber-cfx-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+morib-malaysia,"Morib, Malaysia",Malaysia,india-asia-xpress-iax|mist|seamewe,2022-12-19 22:59:40,2022-12-19 22:59:43
+moroni-comoros,"Moroni, Comoros",Comoros,2africa|avassa|eastern-africa-submarine-system-eassy|fly-lion3,2022-12-19 22:59:40,2022-12-19 22:59:43
+morotai-indonesia,"Morotai, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+morro-bay-ca-united-states,"Morro Bay, CA, United States",United States,japan-u-s-cable-network-jus|southern-cross-cable-network-sccn,2022-12-19 22:59:40,2022-12-19 22:59:43
+morrojable-canary-islands-spain,"Morrojable, Canary Islands, Spain",Spain,transcan-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+mosede-denmark,"Mosede, Denmark",Denmark,denmark-sweden-16,2022-12-19 22:59:40,2022-12-19 22:59:43
+mouly-new-caledonia,"Mouly, New Caledonia",New Caledonia,picot-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+msida-malta,"Msida, Malta",Malta,italy-malta,2022-12-19 22:59:40,2022-12-19 22:59:43
+mt-lavinia-sri-lanka,"Mt. Lavinia, Sri Lanka",Sri Lanka,bharat-lanka-cable-system|maldives-sri-lanka-cable-msc|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+mtunzini-south-africa,"Mtunzini, South Africa",South Africa,2africa|eastern-africa-submarine-system-eassy|safe|seacomtata-tgn-eurasia,2022-12-19 22:59:40,2022-12-19 22:59:43
+muanda-congo-dem-rep-,"Muanda, Congo, Dem. Rep.","Congo, Dem. Rep.",2africa|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+mumbai-india,"Mumbai, India",India,2africa|asia-africa-europe-1-aae-1|bay-of-bengal-gateway-bbg|europe-india-gateway-eig|falcon|flag-europe-asia-fea|gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system|imewe|india-asia-xpress-iax|india-europe-xpress-iex|mist|raman|seacomtata-tgn-eurasia|seamewe|seamewe-3|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+muncar-indonesia,"Muncar, Indonesia",Indonesia,java-bali-cable-system-jbcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+muntok-indonesia,"Muntok, Indonesia",Indonesia,biznet-nusantara-cable-system-1-bncs-1|pasuli|sumatera-bangka-cable-system-sbcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+murdeira-cape-verde,"Murdeira, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+murmansk-russia,"Murmansk, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+muscat-oman,"Muscat, Oman",Oman,oman-australia-cable-oac|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+mustique-saint-vincent-and-the-grenadines,"Mustique, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+mutsamudu-comoros,"Mutsamudu, Comoros",Comoros,avassa|comoros-domestic-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+myrtle-beach-sc-united-states,"Myrtle Beach, SC, United States",United States,confluence-1|firmina,2022-12-19 22:59:40,2022-12-19 22:59:43
+nabire-indonesia,"Nabire, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+nacala-mozambique,"Nacala, Mozambique",Mozambique,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+nador-morocco,"Nador, Morocco",Morocco,medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+naga-philippines,"Naga, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+nago-japan,"Nago, Japan",Japan,okinawa-cellular-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+nakhodka-russia,"Nakhodka, Russia",Russia,polar-express|russia-japan-cable-network-rjcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+namlea-indonesia,"Namlea, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+nanhui-china,"Nanhui, China",China,asia-pacific-gateway-apg|eac-c2c|flag-europe-asia-fea|new-cross-pacific-ncp-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+nanny-cay-virgin-islands-u-k-,"Nanny Cay, Virgin Islands (U.K.)",Virgin Islands (U.K.),east-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+naoetsu-japan,"Naoetsu, Japan",Japan,russia-japan-cable-network-rjcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+naples-fl-united-states,"Naples, FL, United States",United States,carnival-submarine-network-1-csn-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+narragansett-ri-united-states,"Narragansett, RI, United States",United States,sea2shore,2022-12-19 22:59:40,2022-12-19 22:59:43
+narrow-cape-ak-united-states,"Narrow Cape, AK, United States",United States,kodiak-kenai-fiber-link-kkfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+narvik-norway,"Narvik, Norway",Norway,polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+nassau-bahamas,"Nassau, Bahamas",Bahamas,arcos|bahamas-2|bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+nasugbu-philippines,"Nasugbu, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon|southeast-asia-japan-cable-sjc,2022-12-19 22:59:40,2022-12-19 22:59:43
+natal-brazil,"Natal, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+natuna-indonesia,"Natuna, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+neapoli-greece,"Neapoli, Greece",Greece,minoas-east-and-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+nedonna-beach-or-united-states,"Nedonna Beach, OR, United States",United States,trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+needhams-point-barbados,"Needham’s Point, Barbados",Barbados,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+negril-jamaica,"Negril, Jamaica",Jamaica,jscfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+neiafu-tonga,"Neiafu, Tonga",Tonga,tonga-domestic-cable-extension-tdce,2022-12-19 22:59:40,2022-12-19 22:59:43
+nelson-new-zealand,"Nelson, New Zealand",New Zealand,nelson-levin,2022-12-19 22:59:40,2022-12-19 22:59:43
+nesna-norway,"Nesna, Norway",Norway,polar-circle-cable|tverrlinken,2022-12-19 22:59:40,2022-12-19 22:59:43
+nevelsk-russia,"Nevelsk, Russia",Russia,hokkaido-sakhalin-cable-system-hscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+new-plymouth-new-zealand,"New Plymouth, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+new-victoria-ns-canada,"New Victoria, NS, Canada",Canada,persona,2022-12-19 22:59:40,2022-12-19 22:59:43
+newcastle-united-kingdom,"Newcastle, United Kingdom",United Kingdom,havhingstennorth-sea-connect-nsc|no-uk,2022-12-19 22:59:40,2022-12-19 22:59:43
+newhalen-ak-united-states,"Newhalen, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+ngeremlengui-palau,"Ngeremlengui, Palau",Palau,echo|sea-us,2022-12-19 22:59:40,2022-12-19 22:59:43
+ngwe-saung-myanmar,"Ngwe Saung, Myanmar",Myanmar,asia-africa-europe-1-aae-1|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+nikiski-ak-united-states,"Nikiski, AK, United States",United States,acs-alaska-oregon-network-akorn,2022-12-19 22:59:40,2022-12-19 22:59:43
+nome-ak-united-states,"Nome, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+nondalton-ak-united-states,"Nondalton, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+nopigeia-greece,"Nopigeia, Greece",Greece,minoas-east-and-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+noro-solomon-islands,"Noro, Solomon Islands",Solomon Islands,coral-sea-cable-system-cs,2022-12-19 22:59:40,2022-12-19 22:59:43
+norrtalge-sweden,"Norrtalge, Sweden",Sweden,sweden-finland-4-sfs-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+north-bay-united-kingdom,"North Bay, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+north-miami-beach-fl-united-states,"North Miami Beach, FL, United States",United States,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+north-salina-bonaire-sint-eustatius-and-saba,"North Salina, Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",jerry-newton,2022-12-19 22:59:40,2022-12-19 22:59:43
+northport-ny-united-states,"Northport, NY, United States",United States,flag-atlantic-1-fa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+nouakchott-mauritania,"Nouakchott, Mauritania",Mauritania,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+noumea-new-caledonia,"Noumea, New Caledonia",New Caledonia,gondwana-1|gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+nova-sintra-cape-verde,"Nova Sintra, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+novorossiysk-russia,"Novorossiysk, Russia",Russia,georgia-russia,2022-12-19 22:59:40,2022-12-19 22:59:43
+nuku-hiva-french-polynesia,"Nuku Hiva, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+nukunonu-tokelau,"Nukunonu, Tokelau",Tokelau,southern-cross-next|tokelau-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+nuuk-greenland,"Nuuk, Greenland",Greenland,greenland-connect|greenland-connect-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+nyali-kenya,"Nyali, Kenya",Kenya,lower-indian-ocean-network-2-lion2,2022-12-19 22:59:40,2022-12-19 22:59:43
+nybor-denmark,"Nybor, Denmark",Denmark,globalconnect-3-gc3,2022-12-19 22:59:40,2022-12-19 22:59:43
+nybro-sweden,"Nybro, Sweden",Sweden,nordbalt,2022-12-19 22:59:40,2022-12-19 22:59:43
+nynashamn-sweden,"Nynashamn, Sweden",Sweden,latvia-sweden-1-lv-se-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+oara-new-zealand,"Oara, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+ocho-rios-jamaica,"Ocho Rios, Jamaica",Jamaica,alba-1|cayman-jamaica-fiber-system-cjfs|fibralink,2022-12-19 22:59:40,2022-12-19 22:59:43
+okha-russia,"Okha, Russia",Russia,far-east-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+okinawa-japan,"Okinawa, Japan",Japan,guam-okinawa-kyushu-incheon-goki|japan-information-highway-jih|miyazaki-okinawa-cable-moc|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+okrug-russia,"Okrug, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+ola-russia,"Ola, Russia",Russia,far-east-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+olbia-italy,"Olbia, Italy",Italy,janna,2022-12-19 22:59:40,2022-12-19 22:59:43
+ondong-siau-indonesia,"Ondong Siau, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+oran-algeria,"Oran, Algeria",Algeria,med-cable-network|oran-valencia-orval,2022-12-19 22:59:40,2022-12-19 22:59:43
+ormoc-philippines,"Ormoc, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn|pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+ormsary-united-kingdom,"Ormsary, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+ostend-belgium,"Ostend, Belgium",Belgium,bt-north-sea|seamewe-3|tangerine,2022-12-19 22:59:40,2022-12-19 22:59:43
+osterby-denmark,"Osterby, Denmark",Denmark,kattegat-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+oteranga-bay-new-zealand,"Oteranga Bay, New Zealand",New Zealand,cook-strait,2022-12-19 22:59:40,2022-12-19 22:59:43
+otranto-italy,"Otranto, Italy",Italy,italy-greece-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+otter-ferry-united-kingdom,"Otter Ferry, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+owia-saint-vincent-and-the-grenadines,"Owia, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+oxford-falls-nsw-australia,"Oxford Falls, NSW, Australia",Australia,australia-japan-cable-ajc|tasman-global-access-tga-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+oxwich-bay-united-kingdom,"Oxwich Bay, United Kingdom",United Kingdom,solas|swansea-brean,2022-12-19 22:59:40,2022-12-19 22:59:43
+ozamiz-city-philippines,"Ozamiz City, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+pa-li-taiwan,"Pa Li, Taiwan",Taiwan,eac-c2c,2022-12-19 22:59:40,2022-12-19 22:59:43
+pachi-greece,"Pachi, Greece",Greece,apollo-east-and-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+pacific-city-or-united-states,"Pacific City, OR, United States",United States,new-cross-pacific-ncp-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+padang-galak-indonesia,"Padang Galak, Indonesia",Indonesia,denpasar-waingapu-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+padang-indonesia,"Padang, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+paddington-nsw-australia,"Paddington, NSW, Australia",Australia,australia-japan-cable-ajc|telstra-endeavour,2022-12-19 22:59:40,2022-12-19 22:59:43
+paget-bermuda,"Paget, Bermuda",Bermuda,challenger-bermuda-1-cb-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+pago-pago-american-samoa,"Pago Pago, American Samoa",American Samoa,hawaiki|samoa-american-samoa-sas,2022-12-19 22:59:40,2022-12-19 22:59:43
+pagudpud-philippines,"Pagudpud, Philippines",Philippines,cap-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+palembang-indonesia,"Palembang, Indonesia",Indonesia,jasuka|sumatera-bangka-cable-system-sbcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+palermo-italy,"Palermo, Italy",Italy,blue|flag-europe-asia-fea|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+palma-spain,"Palma, Spain",Spain,balalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+panama-city-panama,"Panama City, Panama",Panama,carnival-submarine-network-1-csn-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+pangai-tonga,"Pangai, Tonga",Tonga,tonga-domestic-cable-extension-tdce,2022-12-19 22:59:40,2022-12-19 22:59:43
+panipahan-indonesia,"Panipahan, Indonesia",Indonesia,damai-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+pankalan-indonesia,"Pankalan, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+papenoo-french-polynesia,"Papenoo, French Polynesia",French Polynesia,honotua,2022-12-19 22:59:40,2022-12-19 22:59:43
+paramaribo-suriname,"Paramaribo, Suriname",Suriname,deep-blue-one,2022-12-19 22:59:40,2022-12-19 22:59:43
+paraparaumu-new-zealand,"Paraparaumu, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+parque-isla-de-salamanca-colombia,"Parque Isla de Salamanca, Colombia",Colombia,colombian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+pasacao-philippines,"Pasacao, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+pascagoula-ms-united-states,"Pascagoula, MS, United States",United States,gulf-of-mexico-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+pedersker-denmark,"Pedersker, Denmark",Denmark,baltica,2022-12-19 22:59:40,2022-12-19 22:59:43
+pedro-bay-ak-united-states,"Pedro Bay, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+peel-isle-of-man,"Peel, Isle of Man",Isle of Man,bt-mt-1|lanis-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+pegwell-barbados,"Pegwell, Barbados",Barbados,x-link-submarine-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+pekanbaru-indonesia,"Pekanbaru, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+pembroke-guernsey,"Pembroke, Guernsey",Guernsey,high-capacity-undersea-guernsey-optical-fibre-hugo,2022-12-19 22:59:40,2022-12-19 22:59:43
+penang-malaysia,"Penang, Malaysia",Malaysia,bay-of-bengal-gateway-bbg|flag-europe-asia-fea|safe|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+penarik-indonesia,"Penarik, Indonesia",Indonesia,east-west-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+penmarch-france,"Penmarch, France",France,africa-coast-to-europe-ace|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+pentaskhinos-cyprus,"Pentaskhinos, Cyprus",Cyprus,cadmos|mednautilus-submarine-system|poseidon|te-northtgn-eurasiaseacomalexandrosmedex|ugarit,2022-12-19 22:59:40,2022-12-19 22:59:43
+perryville-ak-united-states,"Perryville, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+perth-wa-australia,"Perth, WA, Australia",Australia,australia-singapore-cable-asc|indigo-central|indigo-west|oman-australia-cable-oac|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+pesaren-indonesia,"Pesaren, Indonesia",Indonesia,b2js-jakarta-bangka-batam-singapore-cable-system|jakarta-bangka-bintan-batam-singapore-b3js,2022-12-19 22:59:40,2022-12-19 22:59:43
+petersburg-ak-united-states,"Petersburg, AK, United States",United States,alaska-united-southeast-au-se|sealink,2022-12-19 22:59:40,2022-12-19 22:59:43
+petropavlovsk-kamchatsky-russia,"Petropavlovsk-Kamchatsky, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+pevek-russia,"Pevek, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+pevensey-bay-united-kingdom,"Pevensey Bay, United Kingdom",United Kingdom,circe-south,2022-12-19 22:59:40,2022-12-19 22:59:43
+philipsburg-sint-maarten,"Philipsburg, Sint Maarten",Sint Maarten,sint-maarten-puerto-rico-network-one-smpr-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+piedra-santa-spain,"Piedra Santa, Spain",Spain,subcan-link-1|subcan-link-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+pigeon-point-trinidad-and-tobago,"Pigeon Point, Trinidad and Tobago",Trinidad and Tobago,tt-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+pile-bay-ak-united-states,"Pile Bay, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+pinamalayan-philippines,"Pinamalayan, Philippines",Philippines,pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+piti-guam,"Piti, Guam",Guam,atisa|echo|hantru1-cable-system|japan-guam-australia-north-jga-n|japan-guam-australia-south-jga-s|pipe-pacific-cable-1-ppc-1|sea-us|tata-tgn-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+playa-blanca-canary-islands-spain,"Playa Blanca, Canary Islands, Spain",Spain,transcan-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+playa-de-benitez-spain,"Playa de Benitez, Spain",Spain,dos-continentes-l-ll,2022-12-19 22:59:40,2022-12-19 22:59:43
+playa-de-la-ribera-spain,"Playa de la Ribera, Spain",Spain,dos-continentes-l-ll,2022-12-19 22:59:40,2022-12-19 22:59:43
+playa-del-carmen-mexico,"Playa del Carmen, Mexico",Mexico,ixchel,2022-12-19 22:59:40,2022-12-19 22:59:43
+plerin-france,"Plerin, France",France,flag-atlantic-1-fa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+pohnpei-micronesia,"Pohnpei, Micronesia",Micronesia,chuuk-pohnpei-cable|hantru1-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+poindimie-new-caledonia,"Poindimie, New Caledonia",New Caledonia,picot-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+point-hope-ak-united-states,"Point Hope, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+point-salines-grenada,"Point Salines, Grenada",Grenada,eastern-caribbean-fiber-system-ecfs|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+pointe-a-pitre-guadeloupe,"Pointe-a-Pitre, Guadeloupe",Guadeloupe,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+pointe-noire-congo-rep-,"Pointe-Noire, Congo, Rep.","Congo, Rep.",2africa|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+ponce-pr-united-states,"Ponce, PR, United States",United States,boriken-submarine-cable-system-bscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+ponta-delgada-portugal,"Ponta Delgada, Portugal",Portugal,azores-fiber-optic-system-afos|cam-ring|columbus-iii-azores-portugal,2022-12-19 22:59:40,2022-12-19 22:59:43
+pontianak-indonesia,"Pontianak, Indonesia",Indonesia,jaka2ladema|jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+popondetta-papua-new-guinea,"Popondetta, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+porlamar-venezuela,"Porlamar, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-alberni-bc-canada,"Port Alberni, BC, Canada",Canada,topaz,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-alsworth-ak-united-states,"Port Alsworth, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-antonio-jamaica,"Port Antonio, Jamaica",Jamaica,cayman-jamaica-fiber-system-cjfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-askaig-united-kingdom,"Port Askaig, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-au-prince-haiti,"Port-au-Prince, Haiti",Haiti,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-blair-india,"Port Blair, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-elizabeth-south-africa,"Port Elizabeth, South Africa",South Africa,2africa,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-erin-isle-of-man,"Port Erin, Isle of Man",Isle of Man,havhingstenceltixconnect-2-cc-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-gentil-gabon,"Port Gentil, Gabon",Gabon,libreville-port-gentil-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-grenaugh-isle-of-man,"Port Grenaugh, Isle of Man",Isle of Man,havhingstenceltixconnect-2-cc-2|lanis-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-hedland-wa-australia,"Port Hedland, WA, Australia",Australia,darwin-jakarta-singapore-cable-djsc|north-west-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-moresby-papua-new-guinea,"Port Moresby, Papua New Guinea",Papua New Guinea,coral-sea-cable-system-cs|kumul-domestic-submarine-cable-system|png-lng,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-nelson-bahamas,"Port Nelson, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-of-spain-trinidad-and-tobago,"Port of Spain, Trinidad and Tobago",Trinidad and Tobago,americas-ii,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-said-egypt,"Port Said, Egypt",Egypt,2africa|africa-1|medusa-submarine-cable-system|seamewe,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-sudan-sudan,"Port Sudan, Sudan",Sudan,2africa|eastern-africa-submarine-system-eassy|falcon|saudi-arabia-sudan-1-sas-1|saudi-arabia-sudan-2-sas-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+port-vila-vanuatu,"Port Vila, Vanuatu",Vanuatu,interchange-cable-network-1-icn1,2022-12-19 22:59:40,2022-12-19 22:59:43
+portachur-point-united-kingdom,"Portachur Point, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+portage-ak-united-states,"Portage, AK, United States",United States,alaska-united-turnagain-arm-auta,2022-12-19 22:59:40,2022-12-19 22:59:43
+porthcressa-beach-united-kingdom,"Porthcressa Beach, United Kingdom",United Kingdom,isles-of-scilly-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+porthcurno-united-kingdom,"Porthcurno, United Kingdom",United Kingdom,flag-europe-asia-fea|high-capacity-undersea-guernsey-optical-fibre-hugo|isles-of-scilly-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+porto-novosanto-antao-cape-verde,"Porto Novo—Santo Antao, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-2|cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+porto-santo-portugal,"Porto Santo, Portugal",Portugal,cam-ring,2022-12-19 22:59:40,2022-12-19 22:59:43
+porto-seguro-brazil,"Porto Seguro, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+portpatrick-united-kingdom,"Portpatrick, United Kingdom",United Kingdom,scotland-northern-ireland-1|scotland-northern-ireland-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+portrane-ireland,"Portrane, Ireland",Ireland,rockabill,2022-12-19 22:59:40,2022-12-19 22:59:43
+poti-georgia,"Poti, Georgia",Georgia,caucasus-cable-system|georgia-russia,2022-12-19 22:59:40,2022-12-19 22:59:43
+pozzallo-italy,"Pozzallo, Italy",Italy,melita-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+praia-cape-verde,"Praia, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-1|cabo-verde-telecom-domestic-submarine-cable-phase-3|ellalink|senegal-horn-of-africa-regional-express-share-cable|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+praia-grande-brazil,"Praia Grande, Brazil",Brazil,firmina|malbec|seabras-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+preveza-greece,"Preveza, Greece",Greece,ionian,2022-12-19 22:59:40,2022-12-19 22:59:43
+prince-rupert-bc-canada,"Prince Rupert, BC, Canada",Canada,ketchcan1-submarine-fiber-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+pringgabaya-indonesia,"Pringgabaya, Indonesia",Indonesia,mataram-kupang-cable-system-mkcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+providenciales-turks-and-caicos-islands,"Providenciales, Turks and Caicos Islands",Turks and Caicos Islands,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+prudhoe-bay-ak-united-states,"Prudhoe Bay, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-ayora-ecuador,"Puerto Ayora, Ecuador",Ecuador,galapagos-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-baquerizo-moreno-ecuador,"Puerto Baquerizo Moreno, Ecuador",Ecuador,galapagos-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-barrios-guatemala,"Puerto Barrios, Guatemala",Guatemala,america-movil-submarine-cable-system-1-amx-1|arcos|aurora-cable-system|south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-cabello-venezuela,"Puerto Cabello, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-cabezas-nicaragua,"Puerto Cabezas, Nicaragua",Nicaragua,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-chacabuco-chile,"Puerto Chacabuco, Chile",Chile,fos-quellon-chacabuco,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-colombia-colombia,"Puerto Colombia, Colombia",Colombia,colombian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-cortes-honduras,"Puerto Cortes, Honduras",Honduras,arcos|aurora-cable-system|maya-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-del-rosario-canary-islands-spain,"Puerto del Rosario, Canary Islands, Spain",Spain,transcan-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-general-villamil-ecuador,"Puerto General Villamil, Ecuador",Ecuador,galapagos-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-la-cruz-venezuela,"Puerto La Cruz, Venezuela",Venezuela,venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-lempira-honduras,"Puerto Lempira, Honduras",Honduras,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-limon-costa-rica,"Puerto Limon, Costa Rica",Costa Rica,arcos|maya-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-montt-chile,"Puerto Montt, Chile",Chile,fibra-optica-austral|prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-plata-dominican-republic,"Puerto Plata, Dominican Republic",Dominican Republic,america-movil-submarine-cable-system-1-amx-1|arcos|fibralink,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-saavedra-chile,"Puerto Saavedra, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-san-jose-guatemala,"Puerto San Jose, Guatemala",Guatemala,south-america-1-sam-1|south-pacific-cable-system-spscmistral,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-viejo-venezuela,"Puerto Viejo, Venezuela",Venezuela,south-american-crossing-sac,2022-12-19 22:59:40,2022-12-19 22:59:43
+puerto-williams-chile,"Puerto Williams, Chile",Chile,fibra-optica-austral,2022-12-19 22:59:40,2022-12-19 22:59:43
+puger-indonesia,"Puger, Indonesia",Indonesia,link-2-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-arenas-chile,"Punta Arenas, Chile",Chile,fibra-optica-austral,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-cana-dominican-republic,"Punta Cana, Dominican Republic",Dominican Republic,antillas-1|arcos|south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-carnero-ecuador,"Punta Carnero, Ecuador",Ecuador,south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-del-este-uruguay,"Punta del Este, Uruguay",Uruguay,firmina,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-dungeness-argentina,"Punta Dungeness, Argentina",Argentina,arsat-submarine-fiber-optic-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+punta-salina-pr-united-states,"Punta Salina, PR, United States",United States,gtmo-pr,2022-12-19 22:59:40,2022-12-19 22:59:43
+punto-fijo-venezuela,"Punto Fijo, Venezuela",Venezuela,arcos|venezuelan-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+puttgarden-germany,"Puttgarden, Germany",Germany,fehmarn-blt,2022-12-19 22:59:40,2022-12-19 22:59:43
+puvirnituq-qc-canada,"Puvirnituq, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+pyapon-myanmar,"Pyapon, Myanmar",Myanmar,seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+qalhat-oman,"Qalhat, Oman",Oman,seamewe-5|tata-tgn-gulf,2022-12-19 22:59:40,2022-12-19 22:59:43
+qaqortoq-greenland,"Qaqortoq, Greenland",Greenland,greenland-connect,2022-12-19 22:59:40,2022-12-19 22:59:43
+qingdao-china,"Qingdao, China",China,eac-c2c|trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+quanono-new-caledonia,"Quanono, New Caledonia",New Caledonia,gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+quellon-chile,"Quellon, Chile",Chile,fos-quellon-chacabuco,2022-12-19 22:59:40,2022-12-19 22:59:43
+quy-nhon-vietnam,"Quy Nhon, Vietnam",Vietnam,asia-direct-cable-adc|southeast-asia-japan-cable-2-sjc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+raglan-new-zealand,"Raglan, New Zealand",New Zealand,aqualink|tasman-global-access-tga-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+raha-indonesia,"Raha, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+ranai-indonesia,"Ranai, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+rangat-india,"Rangat, India",India,chennai-andaman-nicobar-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+rangiroa-french-polynesia,"Rangiroa, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+rantu-prapat-indonesia,"Rantu Prapat, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+rarotonga-cook-islands,"Rarotonga, Cook Islands",Cook Islands,manatua,2022-12-19 22:59:40,2022-12-19 22:59:43
+ras-ghareb-egypt,"Ras Ghareb, Egypt",Egypt,2africa|africa-1|seamewe,2022-12-19 22:59:40,2022-12-19 22:59:43
+ras-lanuf-libya,"Ras Lanuf, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+ratmalana-sri-lanka,"Ratmalana, Sri Lanka",Sri Lanka,bay-of-bengal-gateway-bbg,2022-12-19 22:59:40,2022-12-19 22:59:43
+rayong-thailand,"Rayong, Thailand",Thailand,malaysia-cambodia-thailand-mct-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+rdvig-denmark,"Rødvig, Denmark",Denmark,rnne-rdvig,2022-12-19 22:59:40,2022-12-19 22:59:43
+recife-brazil,"Recife, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+redondo-beach-ca-united-states,"Redondo Beach, CA, United States",United States,unityeac-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+rengit-malaysia,"Rengit, Malaysia",Malaysia,batam-rengit-cable-system-brcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+riding-point-bahamas,"Riding Point, Bahamas",Bahamas,bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+rio-de-janeiro-brazil,"Rio de Janeiro, Brazil",Brazil,america-movil-submarine-cable-system-1-amx-1|brazilian-festoon|brusa|globenet|junior|malbec|south-america-1-sam-1|south-american-crossing-sac,2022-12-19 22:59:40,2022-12-19 22:59:43
+riohacha-colombia,"Riohacha, Colombia",Colombia,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+rnne-denmark,"Rønne, Denmark",Denmark,rnne-rdvig,2022-12-19 22:59:40,2022-12-19 22:59:43
+rock-sound-bahamas,"Rock Sound, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni,2022-12-19 22:59:40,2022-12-19 22:59:43
+rockly-bay-trinidad-and-tobago,"Rockly Bay, Trinidad and Tobago",Trinidad and Tobago,deep-blue-one,2022-12-19 22:59:40,2022-12-19 22:59:43
+rodbyhavn-denmark,"Rodbyhavn, Denmark",Denmark,fehmarn-blt,2022-12-19 22:59:40,2022-12-19 22:59:43
+rodney-bay-saint-lucia,"Rodney Bay, Saint Lucia",Saint Lucia,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+rome-italy,"Rome, Italy",Italy,blue,2022-12-19 22:59:40,2022-12-19 22:59:43
+rose-blanche-nl-canada,"Rose Blanche, NL, Canada",Canada,persona,2022-12-19 22:59:40,2022-12-19 22:59:43
+roseau-dominica,"Roseau, Dominica",Dominica,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+rostock-germany,"Rostock, Germany",Germany,c-lion1|elektra-globalconnect-1-gc1|globalconnect-kpn,2022-12-19 22:59:40,2022-12-19 22:59:43
+rota-northern-mariana-islands,"Rota, Northern Mariana Islands",Northern Mariana Islands,mariana-guam-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+rota-spain,"Rota, Spain",Spain,canalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+roxas-city-philippines,"Roxas City, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn|pldt-domestic-fiber-optic-network-dfon,2022-12-19 22:59:40,2022-12-19 22:59:43
+roxas-philippines,"Roxas, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+rrvik-norway,"Rørvik, Norway",Norway,polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+rst-norway,"Røst, Norway",Norway,bodo-rost-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+rurutu-french-polynesia,"Rurutu, French Polynesia",French Polynesia,natitua-sud,2022-12-19 22:59:40,2022-12-19 22:59:43
+saeby-denmark,"Saeby, Denmark",Denmark,globalconnect-2-gc2,2022-12-19 22:59:40,2022-12-19 22:59:43
+saida-lebanon,"Saida, Lebanon",Lebanon,berytar,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-barthelemy-saint-barthlemy,"Saint Barthelemy, Saint Barthélemy",Saint Barthélemy,global-caribbean-network-gcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-franois-guadeloupe,"Saint-François, Guadeloupe",Guadeloupe,guadeloupe-cable-des-iles-du-sud-gcis,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-hilaire-de-riez-france,"Saint-Hilaire-de-Riez, France",France,dunant,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-louis-guadeloupe,"Saint-Louis, Guadeloupe",Guadeloupe,guadeloupe-cable-des-iles-du-sud-gcis,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-maarten-sint-maarten,"Saint Maarten, Sint Maarten",Sint Maarten,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-martin-saint-martin,"Saint Martin, Saint Martin",Saint Martin,global-caribbean-network-gcn,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-paul-runion,"Saint Paul, Réunion",Réunion,safe,2022-12-19 22:59:40,2022-12-19 22:59:43
+saint-pierre-saint-pierre-and-miquelon,"Saint-Pierre, Saint Pierre and Miquelon",Saint Pierre and Miquelon,st-pierre-and-miquelon-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+sainte-marie-runion,"Sainte Marie, Réunion",Réunion,lower-indian-ocean-network-lion,2022-12-19 22:59:40,2022-12-19 22:59:43
+saints-bay-guernsey,"Saints Bay, Guernsey",Guernsey,guernsey-jersey-4|high-capacity-undersea-guernsey-optical-fibre-hugo,2022-12-19 22:59:40,2022-12-19 22:59:43
+saipan-northern-mariana-islands,"Saipan, Northern Mariana Islands",Northern Mariana Islands,mariana-guam-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+sakha-republic-russia,"Sakha Republic, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+sakra-island-singapore,"Sakra Island, Singapore",Singapore,pgascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+sal-rei-cape-verde,"Sal Rei, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-1|cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+salakan-indonesia,"Salakan, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+salalah-oman,"Salalah, Oman",Oman,2africa|gulf2africa-g2a|india-europe-xpress-iex|raman,2022-12-19 22:59:40,2022-12-19 22:59:43
+salinas-ecuador,"Salinas, Ecuador",Ecuador,south-pacific-cable-system-spscmistral,2022-12-19 22:59:40,2022-12-19 22:59:43
+salluit-qc-canada,"Salluit, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+saltcoats-united-kingdom,"Saltcoats, United Kingdom",United Kingdom,sirius-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+salvador-brazil,"Salvador, Brazil",Brazil,america-movil-submarine-cable-system-1-amx-1|brazilian-festoon|south-america-1-sam-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+samandag-turkey,"Samandag, Turkey",Turkey,turcyos-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-andres-colombia,"San Andres, Colombia",Colombia,san-andres-isla-tolu-submarine-cable-sait,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-antonio-chile,"San Antonio, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-carlos-philippines,"San Carlos, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-jose-de-buenavista-philippines,"San Jose de Buenavista, Philippines",Philippines,palawa-iloilo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-jose-philippines,"San Jose, Philippines",Philippines,boracay-palawan-submarine-cable-system|national-digital-transmission-network-ndtn,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-juan-philippines,"San Juan, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-juan-pr-united-states,"San Juan, PR, United States",United States,america-movil-submarine-cable-system-1-amx-1|brusa|global-caribbean-network-gcn|pacific-caribbean-cable-system-pccs|south-america-1-sam-1|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-luis-obispo-ca-united-states,"San Luis Obispo, CA, United States",United States,asia-america-gateway-aag-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-pedro-belize,"San Pedro, Belize",Belize,strategic-evolution-underwater-link-seul,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-remigio-philippines,"San Remigio, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+san-sebastian-de-la-gomera-canary-islands-spain,"San Sebastian de la Gomera, Canary Islands, Spain",Spain,la-gomera-el-hierro|tenerife-la-gomera-la-palma,2022-12-19 22:59:40,2022-12-19 22:59:43
+sanana-indonesia,"Sanana, Indonesia",Indonesia,palapa-ring-middle|smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sand-point-ak-united-states,"Sand Point, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandnessjen-norway,"Sandnessjøen, Norway",Norway,polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandwick-united-kingdom,"Sandwick, United Kingdom",United Kingdom,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandwick-village-united-kingdom,"Sandwick Village, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandy-point-bahamas,"Sandy Point, Bahamas",Bahamas,bahamas-domestic-submarine-network-bdsni|bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandy-point-vic-australia,"Sandy Point, VIC, Australia",Australia,bass-strait-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sandymount-ireland,"Sandymount, Ireland",Ireland,esat-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+sangano-angola,"Sangano, Angola",Angola,south-atlantic-cable-system-sacs|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+sangata-indonesia,"Sangata, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+sangatta-indonesia,"Sangatta, Indonesia",Indonesia,link-2-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+santa-cruz-de-la-palma-canary-islands-spain,"Santa Cruz de La Palma, Canary Islands, Spain",Spain,canalink|tenerife-la-gomera-la-palma|tenerife-la-palma,2022-12-19 22:59:40,2022-12-19 22:59:43
+santa-magdalena-philippines,"Santa Magdalena, Philippines",Philippines,sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,2022-12-19 22:59:40,2022-12-19 22:59:43
+santa-marta-colombia,"Santa Marta, Colombia",Colombia,colombian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+santiago-de-cuba-cuba,"Santiago de Cuba, Cuba",Cuba,alba-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+santo-domingo-dominican-republic,"Santo Domingo, Dominican Republic",Dominican Republic,antillas-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+santos-brazil,"Santos, Brazil",Brazil,junior|monet|south-america-1-sam-1|south-american-crossing-sac|tannat,2022-12-19 22:59:40,2022-12-19 22:59:43
+sanur-indonesia,"Sanur, Indonesia",Indonesia,link-1-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+sao-filipe-cape-verde,"Sao Filipe, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+sao-mateus-portugal,"Sao Mateus, Portugal",Portugal,azores-fiber-optic-system-afos,2022-12-19 22:59:40,2022-12-19 22:59:43
+sao-pedro-cape-verde,"Sao Pedro, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-1|cabo-verde-telecom-domestic-submarine-cable-phase-2|cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+sao-tome-sao-tome-and-principe,"Sao Tome, Sao Tome and Principe",Sao Tome and Principe,africa-coast-to-europe-ace|ultramar-ge,2022-12-19 22:59:40,2022-12-19 22:59:43
+sape-indonesia,"Sape, Indonesia",Indonesia,sape-labuanbajo-ende-kupang-cable-systems,2022-12-19 22:59:40,2022-12-19 22:59:43
+saraemee-indonesia,"Saraemee, Indonesia",Indonesia,mataram-kupang-cable-system-mkcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+sarasota-fl-united-states,"Sarasota, FL, United States",United States,aurora-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+sardina-canary-islands-spain,"Sardina, Canary Islands, Spain",Spain,tenerife-gran-canaria,2022-12-19 22:59:40,2022-12-19 22:59:43
+sarmi-indonesia,"Sarmi, Indonesia",Indonesia,smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+sasanlagu-rota-northern-mariana-islands,"Sasanlagu, Rota, Northern Mariana Islands",Northern Mariana Islands,atisa,2022-12-19 22:59:40,2022-12-19 22:59:43
+satun-thailand,"Satun, Thailand",Thailand,asia-africa-europe-1-aae-1|flag-europe-asia-fea|india-asia-xpress-iax|seamewe-3|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+savona-italy,"Savona, Italy",Italy,india-europe-xpress-iex|italy-monaco,2022-12-19 22:59:40,2022-12-19 22:59:43
+savusavu-fiji,"Savusavu, Fiji",Fiji,southern-cross-next|tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+scarinish-united-kingdom,"Scarinish, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+schoelcher-martinique,"Schoelcher, Martinique",Martinique,kanawa,2022-12-19 22:59:40,2022-12-19 22:59:43
+schooner-bight-colombia,"Schooner Bight, Colombia",Colombia,america-movil-submarine-cable-system-1-amx-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+seba-indonesia,"Seba, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+seixal-portugal,"Seixal, Portugal",Portugal,mainone|tata-tgn-western-europe|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+sendai-japan,"Sendai, Japan",Japan,japan-information-highway-jih,2022-12-19 22:59:40,2022-12-19 22:59:43
+senggigi-indonesia,"Senggigi, Indonesia",Indonesia,balok|link-1-phase-2|link-3-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sennen-cove-united-kingdom,"Sennen Cove, United Kingdom",United Kingdom,esat-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+seraya-indonesia,"Seraya, Indonesia",Indonesia,balok,2022-12-19 22:59:40,2022-12-19 22:59:43
+serwaru-indonesia,"Serwaru, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+ses-covetes-spain,"Ses Covetes, Spain",Spain,alpal-2|penbal-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+sesimbra-portugal,"Sesimbra, Portugal",Portugal,bugio|europe-india-gateway-eig|sat-3wasc|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+seward-ak-united-states,"Seward, AK, United States",United States,alaska-united-west-au-west|kodiak-kenai-fiber-link-kkfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+seydisfjordur-iceland,"Seydisfjordur, Iceland",Iceland,farice-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+shanghai-china,"Shanghai, China",China,seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+shantou-china,"Shantou, China",China,apcn-2|asia-direct-cable-adc|seamewe-3|southeast-asia-japan-cable-sjc,2022-12-19 22:59:40,2022-12-19 22:59:43
+sharjah-united-arab-emirates,"Sharjah, United Arab Emirates",United Arab Emirates,sir-abu-nuayr-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+shima-japan,"Shima, Japan",Japan,asia-pacific-gateway-apg|australia-japan-cable-ajc|eac-c2c|faster|japan-information-highway-jih|japan-u-s-cable-network-jus|jupiter|pacific-crossing-1-pc-1|southeast-asia-japan-cable-2-sjc2|topaz,2022-12-19 22:59:40,2022-12-19 22:59:43
+shindu-ri-south-korea,"Shindu-Ri, South Korea",South Korea,eac-c2c,2022-12-19 22:59:40,2022-12-19 22:59:43
+shirley-ny-united-states,"Shirley, NY, United States",United States,aec-1|apollo,2022-12-19 22:59:40,2022-12-19 22:59:43
+sibolga-indonesia,"Sibolga, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+siboney-cuba,"Siboney, Cuba",Cuba,alba-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sidi-kerir-egypt,"Sidi Kerir, Egypt",Egypt,india-europe-xpress-iex,2022-12-19 22:59:40,2022-12-19 22:59:43
+sihanoukville-cambodia,"Sihanoukville, Cambodia",Cambodia,asia-africa-europe-1-aae-1|malaysia-cambodia-thailand-mct-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+silecroft-beach-united-kingdom,"Silecroft Beach, United Kingdom",United Kingdom,bt-mt-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sines-portugal,"Sines, Portugal",Portugal,ellalink|medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+singapore-singapore,"Singapore, Singapore",Singapore,asia-connect-cable-1-acc1|bifrost|hawaiki-nui,2022-12-19 22:59:40,2022-12-19 22:59:43
+singkawang-indonesia,"Singkawang, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+sirte-libya,"Sirte, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+sisimiut-greenland,"Sisimiut, Greenland",Greenland,greenland-connect-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+sitio-brazil,"Sitio, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+sitka-ak-united-states,"Sitka, AK, United States",United States,alaska-united-southeast-au-se,2022-12-19 22:59:40,2022-12-19 22:59:43
+sizewell-united-kingdom,"Sizewell, United Kingdom",United Kingdom,concerto,2022-12-19 22:59:40,2022-12-19 22:59:43
+skagway-ak-united-states,"Skagway, AK, United States",United States,lynn-canal-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+skaill-united-kingdom,"Skaill, United Kingdom",United Kingdom,northern-lights,2022-12-19 22:59:40,2022-12-19 22:59:43
+skalvik-sweden,"Skalvik, Sweden",Sweden,kattegat-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+skewjack-united-kingdom,"Skewjack, United Kingdom",United Kingdom,flag-atlantic-1-fa-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+so-mateus-brazil,"São Mateus, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+sochi-russia,"Sochi, Russia",Russia,georgia-russia,2022-12-19 22:59:40,2022-12-19 22:59:43
+sofifi-indonesia,"Sofifi, Indonesia",Indonesia,palapa-ring-middle|smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+songkhla-thailand,"Songkhla, Thailand",Thailand,asia-africa-europe-1-aae-1|asia-pacific-gateway-apg|flag-europe-asia-fea|sea-h2x|southeast-asia-japan-cable-2-sjc2|thailand-indonesia-singapore-tis,2022-12-19 22:59:40,2022-12-19 22:59:43
+sorong-indonesia,"Sorong, Indonesia",Indonesia,smpcs-packet-1|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+soroosh-platform-iran,"Soroosh Platform, Iran",Iran,kuwait-iran,2022-12-19 22:59:40,2022-12-19 22:59:43
+south-arne-denmark,"South Arne, Denmark",Denmark,cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+southport-united-kingdom,"Southport, United Kingdom",United Kingdom,esat-2|exa-north-and-south|rockabill,2022-12-19 22:59:40,2022-12-19 22:59:43
+soyo-angola,"Soyo, Angola",Angola,nzadi-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+spanish-river-park-fl-united-states,"Spanish River Park, FL, United States",United States,bahamas-internet-cable-system-bics,2022-12-19 22:59:40,2022-12-19 22:59:43
+spencer-beach-hi-united-states,"Spencer Beach, HI, United States",United States,southern-cross-cable-network-sccn,2022-12-19 22:59:40,2022-12-19 22:59:43
+sriracha-thailand,"Sriracha, Thailand",Thailand,asia-america-gateway-aag-cable-system|asia-direct-cable-adc,2022-12-19 22:59:40,2022-12-19 22:59:43
+st-croix-virgin-islands-u-s-,"St. Croix, Virgin Islands (U.S.)",Virgin Islands (U.S.),americas-ii|global-caribbean-network-gcn|mid-atlantic-crossing-mac|south-american-crossing-sac|southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+st-davids-bermuda,"St. David’s, Bermuda",Bermuda,caribbean-bermuda-u-s-cbus|gemini-bermuda|globenet,2022-12-19 22:59:40,2022-12-19 22:59:43
+st-johns-antigua-and-barbuda,"St. John’s, Antigua and Barbuda",Antigua and Barbuda,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+st-louis-saint-martin,"St. Louis, Saint Martin",Saint Martin,southern-caribbean-fiber,2022-12-19 22:59:40,2022-12-19 22:59:43
+st-ouens-bay-jersey,"St. Ouens Bay, Jersey",Jersey,uk-channel-islands-8,2022-12-19 22:59:40,2022-12-19 22:59:43
+stanley-tas-australia,"Stanley, TAS, Australia",Australia,bass-strait-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+stavanger-norway,"Stavanger, Norway",Norway,eviny-digital|leif-erikson|no-uk,2022-12-19 22:59:40,2022-12-19 22:59:43
+stavsnas-sweden,"Stavsnas, Sweden",Sweden,bcs-north---phase-1|sweden-estonia-ee-s-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+stockholm-sweden,"Stockholm, Sweden",Sweden,baltic-sea-submarine-cable|eastern-light|sweden-latvia,2022-12-19 22:59:40,2022-12-19 22:59:43
+sture-norway,"Sture, Norway",Norway,n0r5ke-viking,2022-12-19 22:59:40,2022-12-19 22:59:43
+suemlaki-indonesia,"Suemlaki, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+suez-egypt,"Suez, Egypt",Egypt,2africa|falcon|flag-europe-asia-fea|imewe|seamewe-3|seamewe-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+sugar-dock-saipan-northern-mariana-islands,"Sugar Dock, Saipan, Northern Mariana Islands",Northern Mariana Islands,atisa,2022-12-19 22:59:40,2022-12-19 22:59:43
+sumbawa-besar-indonesia,"Sumbawa Besar, Indonesia",Indonesia,denpasar-waingapu-cable-systems|mataram-kupang-cable-system-mkcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+sungai-kakap-indonesia,"Sungai Kakap, Indonesia",Indonesia,jakabare|tanjun-pandan-sungai-kakap-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+sungailiat-indonesia,"Sungailiat, Indonesia",Indonesia,link-4-phase-2|link-5-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+sungsang-indonesia,"Sungsang, Indonesia",Indonesia,biznet-nusantara-cable-system-1-bncs-1|pasuli,2022-12-19 22:59:40,2022-12-19 22:59:43
+sunny-isles-fl-united-states,"Sunny Isles, FL, United States",United States,confluence-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+supiori-indonesia,"Supiori, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+surabaya-indonesia,"Surabaya, Indonesia",Indonesia,s-u-b-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+suro-guinea-bissau,"Suro, Guinea-Bissau",Guinea-Bissau,africa-coast-to-europe-ace,2022-12-19 22:59:40,2022-12-19 22:59:43
+surville-france,"Surville, France",France,ingrid,2022-12-19 22:59:40,2022-12-19 22:59:43
+suva-fiji,"Suva, Fiji",Fiji,gondwana-2picot-2|interchange-cable-network-1-icn1|southern-cross-cable-network-sccn|southern-cross-next|tonga-cable|tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+sventoji-lithuania,"Sventoji, Lithuania",Lithuania,bcs-east|bcs-east-west-interlink,2022-12-19 22:59:40,2022-12-19 22:59:43
+swakopmund-namibia,"Swakopmund, Namibia",Namibia,equiano|west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+sydney-nsw-australia,"Sydney, NSW, Australia",Australia,coral-sea-cable-system-cs|gondwana-1|hawaiki|hawaiki-nui|pipe-pacific-cable-1-ppc-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+sylt-germany,"Sylt, Germany",Germany,atlantic-crossing-1-ac-1|cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+taba-egypt,"Taba, Egypt",Egypt,taba-aqaba,2022-12-19 22:59:40,2022-12-19 22:59:43
+tachognya-beach-tinian-northern-mariana-islands,"Tachognya Beach, Tinian, Northern Mariana Islands",Northern Mariana Islands,atisa,2022-12-19 22:59:40,2022-12-19 22:59:43
+tadine-new-caledonia,"Tadine, New Caledonia",New Caledonia,gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+tagbilaran-philippines,"Tagbilaran, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+tahuna-indonesia,"Tahuna, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+taipa-china,"Taipa, China",Macao,seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+takahagi-japan,"Takahagi, Japan",Japan,topaz,2022-12-19 22:59:40,2022-12-19 22:59:43
+takapuna-new-zealand,"Takapuna, New Zealand",New Zealand,southern-cross-cable-network-sccn|southern-cross-next,2022-12-19 22:59:40,2022-12-19 22:59:43
+takaroa-french-polynesia,"Takaroa, French Polynesia",French Polynesia,natitua,2022-12-19 22:59:40,2022-12-19 22:59:43
+takesung-indonesia,"Takesung, Indonesia",Indonesia,java-kalimantan-sulawesi-jakasusi|sjjk,2022-12-19 22:59:40,2022-12-19 22:59:43
+talcahuano-chile,"Talcahuano, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+taliabu-indonesia,"Taliabu, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+talisay-philippines,"Talisay, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+tallinn-estonia,"Tallinn, Estonia",Estonia,baltic-sea-submarine-cable|finland-estonia-2-eesf-2|finland-estonia-connection-fec|sweden-estonia-ee-s-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanah-merah-singapore,"Tanah Merah, Singapore",Singapore,australia-singapore-cable-asc|b2js-jakarta-bangka-batam-singapore-cable-system|jakarta-bangka-bintan-batam-singapore-b3js|seax-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanguisson-point-guam,"Tanguisson Point, Guam",Guam,asia-america-gateway-aag-cable-system|australia-japan-cable-ajc|mariana-guam-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanjung-bemban-indonesia,"Tanjung Bemban, Indonesia",Indonesia,batam-sarawak-internet-cable-system-basics|jakabare,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanjung-pakis-indonesia,"Tanjung Pakis, Indonesia",Indonesia,echo|jakabare|jakarta-surabaya-cable-system-jayabaya|jasuka|link-3-phase-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanjung-pandan-indonesia,"Tanjung Pandan, Indonesia",Indonesia,jasuka|tanjun-pandan-sungai-kakap-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanjung-pinggir-indonesia,"Tanjung Pinggir, Indonesia",Indonesia,batam-rengit-cable-system-brcs|jambi-batam-cable-system-jiba,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanjung-selor-indonesia,"Tanjung Selor, Indonesia",Indonesia,tarakan-selor-cable-system-tscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+tanshui-taiwan,"Tanshui, Taiwan",Taiwan,apcn-2|eac-c2c|faster|southeast-asia-japan-cable-2-sjc2|taiwan-strait-express-1-tse-1|trans-pacific-express-tpe-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tarahales-spain,"Tarahales, Spain",Spain,pencan-9,2022-12-19 22:59:40,2022-12-19 22:59:43
+tarakan-indonesia,"Tarakan, Indonesia",Indonesia,indonesia-global-gateway-igg-system|tarakan-selor-cable-system-tscs,2022-12-19 22:59:40,2022-12-19 22:59:43
+tarifa-spain,"Tarifa, Spain",Spain,dos-continentes-l-ll,2022-12-19 22:59:40,2022-12-19 22:59:43
+taro-solomon-islands,"Taro, Solomon Islands",Solomon Islands,coral-sea-cable-system-cs,2022-12-19 22:59:40,2022-12-19 22:59:43
+tarrafalsantiago-cape-verde,"Tarrafal—Santiago, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-2|cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+tarrafalsao-nicolau-cape-verde,"Tarrafal—Sao Nicolau, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+tartous-syria,"Tartous, Syria",Syria,aletar|berytar|ugarit,2022-12-19 22:59:40,2022-12-19 22:59:43
+taytay-philippines,"Taytay, Philippines",Philippines,boracay-palawan-submarine-cable-system|converge-domestic-submarine-cable-network-cdscn|palawa-iloilo-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tebingtinggi-island-indonesia,"Tebingtinggi Island, Indonesia",Indonesia,palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+tel-aviv-israel,"Tel Aviv, Israel",Israel,blue|jonah|lev-submarine-system|mednautilus-submarine-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+telisai-brunei,"Telisai, Brunei",Brunei,southeast-asia-japan-cable-sjc,2022-12-19 22:59:40,2022-12-19 22:59:43
+teluk-indonesia,"Teluk, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+teping-tinggi-indonesia,"Teping Tinggi, Indonesia",Indonesia,jasuka,2022-12-19 22:59:40,2022-12-19 22:59:43
+terante-indonesia,"Terante, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+terempa-indonesia,"Terempa, Indonesia",Indonesia,east-west-submarine-cable-system|palapa-ring-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+ternate-indonesia,"Ternate, Indonesia",Indonesia,smpcs-packet-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+terre-de-haut-guadeloupe,"Terre-de-Haut, Guadeloupe",Guadeloupe,guadeloupe-cable-des-iles-du-sud-gcis,2022-12-19 22:59:40,2022-12-19 22:59:43
+terre-rouge-mauritius,"Terre Rouge, Mauritius",Mauritius,lower-indian-ocean-network-lion,2022-12-19 22:59:40,2022-12-19 22:59:43
+thanlyin-myanmar,"Thanlyin, Myanmar",Myanmar,singapore-myanmar-sigmar,2022-12-19 22:59:40,2022-12-19 22:59:43
+the-valley-anguilla,"The Valley, Anguilla",Anguilla,eastern-caribbean-fiber-system-ecfs,2022-12-19 22:59:40,2022-12-19 22:59:43
+thinadhoo-maldives,"Thinadhoo, Maldives",Maldives,nationwide-submarine-cable-ooredoo-maldives-nascom,2022-12-19 22:59:40,2022-12-19 22:59:43
+thorlakshofn-iceland,"Thorlakshofn, Iceland",Iceland,iris,2022-12-19 22:59:40,2022-12-19 22:59:43
+thorpeness-united-kingdom,"Thorpeness, United Kingdom",United Kingdom,concerto,2022-12-19 22:59:40,2022-12-19 22:59:43
+tiakur-indonesia,"Tiakur, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+tidore-indonesia,"Tidore, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+tijuana-mexico,"Tijuana, Mexico",Mexico,pan-american-crossing-pac,2022-12-19 22:59:40,2022-12-19 22:59:43
+timika-indonesia,"Timika, Indonesia",Indonesia,palapa-ring-east|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+timpaki-greece,"Timpaki, Greece",Greece,india-europe-xpress-iex,2022-12-19 22:59:40,2022-12-19 22:59:43
+tinian-northern-mariana-islands,"Tinian, Northern Mariana Islands",Northern Mariana Islands,mariana-guam-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+tinocas-canary-islands-spain,"Tinocas, Canary Islands, Spain",Spain,canalink,2022-12-19 22:59:40,2022-12-19 22:59:43
+titahi-bay-new-zealand,"Titahi Bay, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+tjele-denmark,"Tjele, Denmark",Denmark,skagerrak-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+tjornuvik-faroe-islands,"Tjornuvik, Faroe Islands",Faroe Islands,cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+toamasina-madagascar,"Toamasina, Madagascar",Madagascar,lower-indian-ocean-network-lion,2022-12-19 22:59:40,2022-12-19 22:59:43
+tobelo-indonesia,"Tobelo, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+tobermory-united-kingdom,"Tobermory, United Kingdom",United Kingdom,bt-highlands-and-islands-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+toco-trinidad-and-tobago,"Toco, Trinidad and Tobago",Trinidad and Tobago,tt-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+tocopilla-chile,"Tocopilla, Chile",Chile,prat,2022-12-19 22:59:40,2022-12-19 22:59:43
+toledo-philippines,"Toledo, Philippines",Philippines,converge-domestic-submarine-cable-network-cdscn,2022-12-19 22:59:40,2022-12-19 22:59:43
+toliara-madagascar,"Toliara, Madagascar",Madagascar,eastern-africa-submarine-system-eassy,2022-12-19 22:59:40,2022-12-19 22:59:43
+tolmeta-libya,"Tolmeta, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+tolu-colombia,"Tolu, Colombia",Colombia,colombian-festoon|maya-1|san-andres-isla-tolu-submarine-cable-sait,2022-12-19 22:59:40,2022-12-19 22:59:43
+tong-fuk-china,"Tong Fuk, China",HongKong,flag-north-asia-loopreach-north-asia-loop,2022-12-19 22:59:40,2022-12-19 22:59:43
+topolobampo-mexico,"Topolobampo, Mexico",Mexico,gulf-of-california-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+toronto-on-canada,"Toronto, ON, Canada",Canada,crosslake-fibre|maple-leaf-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+torreguadiaro-spain,"Torreguadiaro, Spain",Spain,medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+torshavn-faroe-islands,"Torshavn, Faroe Islands",Faroe Islands,shefa-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+tortel-chile,"Tortel, Chile",Chile,fibra-optica-austral,2022-12-19 22:59:40,2022-12-19 22:59:43
+tortola-virgin-islands-u-k-,"Tortola, Virgin Islands (U.K.)",Virgin Islands (U.K.),caribbean-bermuda-u-s-cbus|eastern-caribbean-fiber-system-ecfs|pacific-caribbean-cable-system-pccs,2022-12-19 22:59:40,2022-12-19 22:59:43
+totalenergies-halfdan-denmark,"TotalEnergies Halfdan, Denmark",Denmark,hronn,2022-12-19 22:59:40,2022-12-19 22:59:43
+totalenergies-tyra-denmark,"TotalEnergies Tyra, Denmark",Denmark,hronn,2022-12-19 22:59:40,2022-12-19 22:59:43
+totness-suriname,"Totness, Suriname",Suriname,suriname-guyana-submarine-cable-system-sg-scs,2022-12-19 22:59:40,2022-12-19 22:59:43
+toucheng-taiwan,"Toucheng, Taiwan",Taiwan,apricot|asia-pacific-gateway-apg|flag-north-asia-loopreach-north-asia-loop|new-cross-pacific-ncp-cable-system|pacific-light-cable-network-plcn|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+toulon-france,"Toulon, France",France,seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+towale-indonesia,"Towale, Indonesia",Indonesia,link-2-phase-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+toweli-indonesia,"Toweli, Indonesia",Indonesia,jaka2ladema,2022-12-19 22:59:40,2022-12-19 22:59:43
+toyohashi-japan,"Toyohashi, Japan",Japan,tata-tgn-pacific,2022-12-19 22:59:40,2022-12-19 22:59:43
+trablous-lebanon,"Trablous, Lebanon",Lebanon,berytar,2022-12-19 22:59:40,2022-12-19 22:59:43
+trapani-italy,"Trapani, Italy",Italy,trapani-kelibia,2022-12-19 22:59:40,2022-12-19 22:59:43
+tripoli-lebanon,"Tripoli, Lebanon",Lebanon,imewe,2022-12-19 22:59:40,2022-12-19 22:59:43
+tripoli-libya,"Tripoli, Libya",Libya,europe-india-gateway-eig|italy-libya|lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+trivendrum-india,"Trivendrum, India",India,falcon,2022-12-19 22:59:40,2022-12-19 22:59:43
+trondheim-norway,"Trondheim, Norway",Norway,n0r5ke-viking|polar-circle-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+troon-united-kingdom,"Troon, United Kingdom",United Kingdom,lanis-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+trujillo-honduras,"Trujillo, Honduras",Honduras,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+tseung-kwan-o-china,"Tseung Kwan O, China",HongKong,asia-pacific-gateway-apg|asia-submarine-cable-express-asecahaya-malaysia|eac-c2c,2022-12-19 22:59:40,2022-12-19 22:59:43
+ttouan-morocco,"Tétouan, Morocco",Morocco,estepona-tetouan|medusa-submarine-cable-system|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+tual-indonesia,"Tual, Indonesia",Indonesia,palapa-ring-east|smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+tuas-singapore,"Tuas, Singapore",Singapore,apricot|asia-direct-cable-adc|i2i-cable-network-i2icn|india-asia-xpress-iax|indigo-west|indonesia-global-gateway-igg-system|mist|peace-cable|sea-h2x|seamewe|seamewe-3|seamewe-4|seamewe-5|singapore-myanmar-sigmar|southeast-asia-japan-cable-sjc,2022-12-19 22:59:40,2022-12-19 22:59:43
+tuasivi-samoa,"Tuasivi, Samoa",Samoa,tui-samoa,2022-12-19 22:59:40,2022-12-19 22:59:43
+tuborg-denmark,"Tuborg, Denmark",Denmark,danica-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+tubruq-libya,"Tubruq, Libya",Libya,lfon-libyan-fiber-optic-network|tobrok-emasaed-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tubuai-french-polynesia,"Tubuai, French Polynesia",French Polynesia,natitua-sud,2022-12-19 22:59:40,2022-12-19 22:59:43
+tuckerton-nj-united-states,"Tuckerton, NJ, United States",United States,globenet,2022-12-19 22:59:40,2022-12-19 22:59:43
+tulum-mexico,"Tulum, Mexico",Mexico,arcos,2022-12-19 22:59:40,2022-12-19 22:59:43
+tumon-bay-guam,"Tumon Bay, Guam",Guam,australia-japan-cable-ajc|guam-okinawa-kyushu-incheon-goki,2022-12-19 22:59:40,2022-12-19 22:59:43
+tungku-brunei,"Tungku, Brunei",Brunei,asia-america-gateway-aag-cable-system|labuan-brunei-submarine-cable|seamewe-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+turku-finland,"Turku, Finland",Finland,sweden-finland-4-sfs-4,2022-12-19 22:59:40,2022-12-19 22:59:43
+tuticorine-india,"Tuticorine, India",India,bharat-lanka-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tutuyan-indonesia,"Tutuyan, Indonesia",Indonesia,luwuk-tutuyan-cable-system-ltcs,2022-12-19 22:59:40,2022-12-19 22:59:43
+tympaki-greece,"Tympaki, Greece",Greece,medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+tyra-denmark,"Tyra, Denmark",Denmark,cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+ujung-pankah-indonesia,"Ujung Pankah, Indonesia",Indonesia,sjjk,2022-12-19 22:59:40,2022-12-19 22:59:43
+umag-croatia,"Umag, Croatia",Croatia,italy-croatia,2022-12-19 22:59:40,2022-12-19 22:59:43
+umbogintwini-south-africa,"Umbogintwini, South Africa",South Africa,meltingpot-indianoceanic-submarine-system-metiss,2022-12-19 22:59:40,2022-12-19 22:59:43
+ume-sweden,"Umeå, Sweden",Sweden,botnia,2022-12-19 22:59:40,2022-12-19 22:59:43
+umiujaq-qc-canada,"Umiujaq, QC, Canada",Canada,eastern-arctic-undersea-fibre-optic-network-eaufon,2022-12-19 22:59:40,2022-12-19 22:59:43
+unalaska-ak-united-states,"Unalaska, AK, United States",United States,au-aleutian,2022-12-19 22:59:40,2022-12-19 22:59:43
+union-island-saint-vincent-and-the-grenadines,"Union Island, Saint Vincent and the Grenadines",Saint Vincent and the Grenadines,caribbean-regional-communications-infrastructure-program-carcip,2022-12-19 22:59:40,2022-12-19 22:59:43
+unqui-costa-rica,"Unqui, Costa Rica",Costa Rica,pan-american-crossing-pac,2022-12-19 22:59:40,2022-12-19 22:59:43
+ust-bolsheretsk-russia,"Ust-Bolsheretsk, Russia",Russia,far-east-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+utqiavik-ak-united-states,"Utqiaġvik, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+utskarpen-norway,"Utskarpen, Norway",Norway,tverrlinken,2022-12-19 22:59:40,2022-12-19 22:59:43
+uturoa-french-polynesia,"Uturoa, French Polynesia",French Polynesia,honotua,2022-12-19 22:59:40,2022-12-19 22:59:43
+vaasa-finland,"Vaasa, Finland",Finland,botnia,2022-12-19 22:59:40,2022-12-19 22:59:43
+vaitape-french-polynesia,"Vaitape, French Polynesia",French Polynesia,honotua|manatua,2022-12-19 22:59:40,2022-12-19 22:59:43
+valdemar-denmark,"Valdemar, Denmark",Denmark,cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+valdez-ak-united-states,"Valdez, AK, United States",United States,alaska-united-east-au-east|northstar,2022-12-19 22:59:40,2022-12-19 22:59:43
+valencia-spain,"Valencia, Spain",Spain,balalink|oran-valencia-orval,2022-12-19 22:59:40,2022-12-19 22:59:43
+valparaso-chile,"Valparaíso, Chile",Chile,curie|prat|south-america-1-sam-1|south-american-crossing-sac|south-pacific-cable-system-spscmistral,2022-12-19 22:59:40,2022-12-19 22:59:43
+valverde-canary-islands-spain,"Valverde, Canary Islands, Spain",Spain,la-gomera-el-hierro,2022-12-19 22:59:40,2022-12-19 22:59:43
+vancouver-bc-canada,"Vancouver, BC, Canada",Canada,topaz,2022-12-19 22:59:40,2022-12-19 22:59:43
+vanimo-papua-new-guinea,"Vanimo, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+vao-new-caledonia,"Vao, New Caledonia",New Caledonia,gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+varberg-sweden,"Varberg, Sweden",Sweden,energinet-laeso-varberg,2022-12-19 22:59:40,2022-12-19 22:59:43
+varna-bulgaria,"Varna, Bulgaria",Bulgaria,kafos,2022-12-19 22:59:40,2022-12-19 22:59:43
+vdd-sweden,"Väddö, Sweden",Sweden,sweden-finland-link-sfl,2022-12-19 22:59:40,2022-12-19 22:59:43
+velas-portugal,"Velas, Portugal",Portugal,azores-fiber-optic-system-afos,2022-12-19 22:59:40,2022-12-19 22:59:43
+velling-sweden,"Velling, Sweden",Sweden,denmark-sweden-16,2022-12-19 22:59:40,2022-12-19 22:59:43
+ventspils-latvia,"Ventspils, Latvia",Latvia,latvia-sweden-1-lv-se-1|sweden-latvia,2022-12-19 22:59:40,2022-12-19 22:59:43
+vero-beach-fl-united-states,"Vero Beach, FL, United States",United States,americas-i-north|bahamas-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+vestero-denmark,"Vestero, Denmark",Denmark,kattegat-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+vestmannaeyjar-iceland,"Vestmannaeyjar, Iceland",Iceland,cantat-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+veules-les-roses-france,"Veules-les-Roses, France",France,crosschannel-fibre,2022-12-19 22:59:40,2022-12-19 22:59:43
+victoria-seychelles,"Victoria, Seychelles",Seychelles,peace-cable|seychelles-to-east-africa-system-seas,2022-12-19 22:59:40,2022-12-19 22:59:43
+vila-do-maio-cape-verde,"Vila do Maio, Cape Verde",Cape Verde,cabo-verde-telecom-domestic-submarine-cable-phase-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+vila-do-porto-portugal,"Vila do Porto, Portugal",Portugal,azores-fiber-optic-system-afos,2022-12-19 22:59:40,2022-12-19 22:59:43
+vila-olga-virgin-islands-u-s-,"Vila Olga, Virgin Islands (U.S.)",Virgin Islands (U.S.),st-thomas-st-croix-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+virginia-beach-va-united-states,"Virginia Beach, VA, United States",United States,brusa|confluence-1|dunant|marea,2022-12-19 22:59:40,2022-12-19 22:59:43
+vitria-brazil,"Vitória, Brazil",Brazil,brazilian-festoon,2022-12-19 22:59:40,2022-12-19 22:59:43
+vladivostok-russia,"Vladivostok, Russia",Russia,polar-express,2022-12-19 22:59:40,2022-12-19 22:59:43
+vung-tau-vietnam,"Vung Tau, Vietnam",Vietnam,asia-africa-europe-1-aae-1|asia-america-gateway-aag-cable-system|tata-tgn-intra-asia-tgn-ia,2022-12-19 22:59:40,2022-12-19 22:59:43
+wada-japan,"Wada, Japan",Japan,flag-north-asia-loopreach-north-asia-loop,2022-12-19 22:59:40,2022-12-19 22:59:43
+waikanae-new-zealand,"Waikanae, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+waingapu-indonesia,"Waingapu, Indonesia",Indonesia,denpasar-waingapu-cable-systems|mataram-kupang-cable-system-mkcs|palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+wainwright-ak-united-states,"Wainwright, AK, United States",United States,quintillion-subsea-cable-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+waisai-indonesia,"Waisai, Indonesia",Indonesia,smpcs-packet-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+wall-township-nj-united-states,"Wall Township, NJ, United States",United States,confluence-1|havfrueaec-2|seabras-1|tata-tgn-atlantic|wall-li,2022-12-19 22:59:40,2022-12-19 22:59:43
+warrenton-or-united-states,"Warrenton, OR, United States",United States,alaska-united-west-au-west,2022-12-19 22:59:40,2022-12-19 22:59:43
+wawonii-indonesia,"Wawonii, Indonesia",Indonesia,palapa-ring-middle,2022-12-19 22:59:40,2022-12-19 22:59:43
+wellington-new-zealand,"Wellington, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+wenchang-china,"Wenchang, China",China,hainan-to-hong-kong-express-h2he,2022-12-19 22:59:40,2022-12-19 22:59:43
+weno-chuuk-micronesia,"Weno, Chuuk, Micronesia",Micronesia,chuuk-pohnpei-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+west-island-cocos-keeling-islands,"West Island, Cocos (Keeling) Islands",Cocos (Keeling) Islands,oman-australia-cable-oac,2022-12-19 22:59:40,2022-12-19 22:59:43
+west-palm-beach-fl-united-states,"West Palm Beach, FL, United States",United States,caribbean-express-cx|columbus-ii-b,2022-12-19 22:59:40,2022-12-19 22:59:43
+westbury-ny-united-states,"Westbury, NY, United States",United States,wall-li,2022-12-19 22:59:40,2022-12-19 22:59:43
+wewak-papua-new-guinea,"Wewak, Papua New Guinea",Papua New Guinea,kumul-domestic-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+whanganui-new-zealand,"Whanganui, New Zealand",New Zealand,aqualink,2022-12-19 22:59:40,2022-12-19 22:59:43
+whenuapai-new-zealand,"Whenuapai, New Zealand",New Zealand,southern-cross-cable-network-sccn,2022-12-19 22:59:40,2022-12-19 22:59:43
+whitehead-united-kingdom,"Whitehead, United Kingdom",United Kingdom,lanis-3,2022-12-19 22:59:40,2022-12-19 22:59:43
+whitesands-bay-united-kingdom,"Whitesands Bay, United Kingdom",United Kingdom,atlantic-crossing-1-ac-1|pan-european-crossing-uk-ireland,2022-12-19 22:59:40,2022-12-19 22:59:43
+whittier-ak-united-states,"Whittier, AK, United States",United States,alaska-united-east-au-east|northstar,2022-12-19 22:59:40,2022-12-19 22:59:43
+willemstad-curaao,"Willemstad, Curaçao",Curaçao,alonso-de-ojeda|americas-ii|amerigo-vespucci|arcos|eclink|jerry-newton,2022-12-19 22:59:40,2022-12-19 22:59:43
+williamsport-ak-united-states,"Williamsport, AK, United States",United States,terra-sw,2022-12-19 22:59:40,2022-12-19 22:59:43
+winterton-on-sea-united-kingdom,"Winterton-on-Sea, United Kingdom",United Kingdom,bt-north-sea,2022-12-19 22:59:40,2022-12-19 22:59:43
+wrangell-ak-united-states,"Wrangell, AK, United States",United States,alaska-united-southeast-au-se,2022-12-19 22:59:40,2022-12-19 22:59:43
+wurrumiyanga-nt-australia,"Wurrumiyanga, NT, Australia",Australia,north-west-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+xepenehe-new-caledonia,"Xepenehe, New Caledonia",New Caledonia,picot-1,2022-12-19 22:59:40,2022-12-19 22:59:43
+yanbu-saudi-arabia,"Yanbu, Saudi Arabia",Saudi Arabia,2africa|india-europe-xpress-iex|saudi-vision|seamewe|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+yapen-indonesia,"Yapen, Indonesia",Indonesia,palapa-ring-east,2022-12-19 22:59:40,2022-12-19 22:59:43
+yate-new-caledonia,"Yate, New Caledonia",New Caledonia,gondwana-2picot-2,2022-12-19 22:59:40,2022-12-19 22:59:43
+yeroskipos-cyprus,"Yeroskipos, Cyprus",Cyprus,blue|hawk|lev-submarine-system|peace-cable|poseidon|seamewe-3|tamares-north,2022-12-19 22:59:40,2022-12-19 22:59:43
+ygarden-norway,"Øygarden, Norway",Norway,tampnet-offshore-foc-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+ysanden-norway,"Øysanden, Norway",Norway,celtic-norse,2022-12-19 22:59:40,2022-12-19 22:59:43
+ystad-sweden,"Ystad, Sweden",Sweden,baltica,2022-12-19 22:59:40,2022-12-19 22:59:43
+yuzhno-kurilsk-russia,"Yuzhno Kurilsk, Russia",Russia,sakhalin-kuril-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+yuzhno-sakhalinsk-russia,"Yuzhno-Sakhalinsk, Russia",Russia,polar-express|sakhalin-kuril-islands-cable,2022-12-19 22:59:40,2022-12-19 22:59:43
+yzerfontein-south-africa,"Yzerfontein, South Africa",South Africa,west-africa-cable-system-wacs,2022-12-19 22:59:40,2022-12-19 22:59:43
+zafarana-egypt,"Zafarana, Egypt",Egypt,2africa|asia-africa-europe-1-aae-1|europe-india-gateway-eig|india-europe-xpress-iex|middle-east-north-africa-mena-cable-systemgulf-bridge-international|peace-cable|seacomtata-tgn-eurasia|seamewe-5,2022-12-19 22:59:40,2022-12-19 22:59:43
+zahara-de-los-atunes-spain,"Zahara de los Atunes, Spain",Spain,medusa-submarine-cable-system,2022-12-19 22:59:40,2022-12-19 22:59:43
+zandvoort-netherlands,"Zandvoort, Netherlands",Netherlands,circe-north|concerto|zeus,2022-12-19 22:59:40,2022-12-19 22:59:43
+zawia-libya,"Zawia, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
+zeebrugge-belgium,"Zeebrugge, Belgium",Belgium,concerto,2022-12-19 22:59:40,2022-12-19 22:59:43
+zhuhai-china,"Zhuhai, China",China,hainan-to-hong-kong-express-h2he,2022-12-19 22:59:40,2022-12-19 22:59:43
+zuwara-libya,"Zuwara, Libya",Libya,lfon-libyan-fiber-optic-network,2022-12-19 22:59:40,2022-12-19 22:59:43
