@@ -1,10 +1,5 @@
 from protobuf_inspector.types import StandardParser
-import csv
-import json
 import re
-import os
-import requests
-import time
 from utils import *
 
 
@@ -12,8 +7,8 @@ def get_eol_from_pbf():
     parser = StandardParser()
     ids = set()
 
-    path = '.\\data\\data_' + get_formatted_date()
-
+    path = '.\\data\\data_' + formatted_date
+    os.remove(os.path.join(path, 'id_eol.csv'))
 
     for x in range(0, 4):
         for y in range(0, 3):

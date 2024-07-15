@@ -32,7 +32,7 @@ def insert_neo4j():
         graph.merge(cable_node, 'cable', 'name')
         for lp in x['landing_points']:
             lp_geo = my_db['landing-point-geo'].find_one({'properties.id': lp['id']})
-            lp_node = Node('landing_point', name=lp['name'], id=lp['id'], coordinates=lp_geo['geometry']['coordinates'], country=lp['country'])
+            lp_node = Node('landing_point', name=lp['name'], id=lp['id'], coordinate=lp_geo['geometry']['coordinates'], country=lp['country'])
             graph.merge(lp_node, 'landing_point', 'name')
             relationship = Relationship(cable_node, 'landing_at', lp_node, probibility=1.0)
             graph.merge(relationship)

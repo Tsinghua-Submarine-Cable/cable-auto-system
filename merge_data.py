@@ -51,7 +51,8 @@ def merge_data():
             'design_capacity': cable['design_capacity'],
             'fiber_pairs': cable['fiber_pairs'],
             'rfs': cable['rfs'],
-            'rfs_year': cable['rfs_year']
+            'rfs_year': cable['rfs_year'],
+            'eol': cable['eol']
         }
 
         suppliers = get_supplier_by_cable(graph, cable['name'])

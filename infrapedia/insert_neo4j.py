@@ -84,7 +84,7 @@ def insert_neo4j():
         if cable_name == '':
             cable_name = x['name']
         lp_short_names = get_landing_point_short_name_of_cable(graph, cable_name)
-        cable_node = Node('cable', name=cable_name, design_capacity=x['design_capacity'], fiber_pairs=x['fiber_pairs'])
+        cable_node = Node('cable', name=cable_name, design_capacity=x['design_capacity'], fiber_pairs=x['fiber_pairs'], eol=x['eol'])
         if cable_name not in cable_name_set:
             cable_node['data_source'] = 'infrapedia'
             cable_node['id'] = get_id_by_name(cable_name)
@@ -97,7 +97,7 @@ def insert_neo4j():
                 continue
             new_lp_cnt += 1
             print(cable_name, lp['name'])
-            lp_node = Node('landing_point', name=lp['name'], id=get_id_by_name(lp['name']), datasource='infrapedia', country=lp['country'])
+            lp_node = Node('landing_point', name=lp['name'], id=get_id_by_name(lp['name']), datasource='infrapedia', country=lp['country'], coordinates=lp['coordinates'])
             graph.merge(lp_node, 'landing_point', 'name')
             relationship = Relationship(cable_node, 'landing_at', lp_node, probibility=0.3)
             graph.merge(relationship)

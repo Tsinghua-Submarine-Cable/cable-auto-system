@@ -9,7 +9,6 @@ from utils import *
 from tqdm import tqdm
 
 name_map = dict()
-eol_map = dict()
 
 def load_name_map():
     global name_map  # 将infra上的海缆名映射到标准名
