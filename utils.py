@@ -1,6 +1,7 @@
 import os
 import csv
 import logging
+import wget
 from datetime import datetime
 
 proxies = {
@@ -14,6 +15,9 @@ def dump_file(row, path):
     writer = csv.writer(open_file, dialect='unix')
     writer.writerow(row)
     open_file.close()
+
+def download_url(url, file_path):
+    wget.download(url, out=file_path)
 
 def find_all_file(base):
     all_filenames = []
