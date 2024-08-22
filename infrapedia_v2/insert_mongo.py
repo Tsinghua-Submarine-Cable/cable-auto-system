@@ -1,41 +1,24 @@
 import json
-
 import pymongo
 import csv
 from utils import *
 
 def insert_mongo():
-    header = ["Standard_name", "Infrapedia_Name", "Status", "Length", "RFS", "EOL", "Design Capacity", "Fiber Pairs",
-              "Lit Capacity", "Cls", "Facilities", "Owners", "Known Users", "More Information"]
-
-    new_header = ["telegeography_name", "name", "status", "length", "rfs", "eol", "design_capacity", "fiber_pairs", "lit_capacity",
-                  "landing_points", "facilities", "owners", "known_users", "url"]
     myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-    my_db = myclient["infrapedia_data_" + formatted_date]
+    my_db = myclient["infrapedia_v2_data_" + formatted_date]
     my_col = my_db["cable"]
 
     my_col.delete_many({})
-
-    fp = open(os.path.join('data', 'data_' + formatted_date, "cable_info.csv"), "r", encoding="utf-8")
-    reader = csv.DictReader(fp)
-    for row in reader:
-        row['lit_capacity'] = json.loads(row['lit_capacity'])
-        row['landing_points'] = json.loads(row['landing_points'])
-        new_lps = []
-        for lp in row['landing_points']:
-            lp = lp.replace(',  ', ', ')
-            dic = {
-                'name': lp,
-                'country': lp.split(', ')[-1]
-            }
-            new_lps.append(dic)
-        row['landing_points'] = new_lps
-        row['facilities'] = json.loads(row['facilities'])
-        row['owners'] = json.loads(row['owners'])
-        row['known_users'] = json.loads(row['known_users'])
-        row['url'] = json.loads(row['url'])
-
-        my_col.insert_one(row)
+    dir_path = os.path.join('./data', 'data_' + formatted_date, 'decoded_pbf')
+    files = find_all_file(dir_path)
+    for f in files:
+        with open(os.path.join(dir_path, f), 'r', encoding='utf-8') as f:
+            try:
+                dic = json.load(f)
+                my_col.insert_one(dic)
+            except Exception as e:
+                print(f, e)
+                continue
 
 
 if __name__=="__main__":

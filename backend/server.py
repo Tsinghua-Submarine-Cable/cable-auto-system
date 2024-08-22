@@ -30,8 +30,8 @@ lp_geo_col = cable_db["landing-point-geo"]
 country_col = cable_db["country"]
 supplier_col = cable_db["supplier"]
 
-subtel_db = myclient["subtel_data_2024-08-21"]
-dc_geo_col = subtel_db["data-center-geo"]
+subtel_db = myclient["subtel_data_2024-07-10"]
+dc_col = subtel_db["data-center"]
 
 @app.get("/api/terrestrial/geo")
 async def get_coordinates():
@@ -92,14 +92,14 @@ async def get_landing_points_info():
 
 @app.get("/api/data_centers/geo")
 async def get_coordinates():
-    geo_infos = lp_geo_col.find({})
+    dc_infos = dc_col.find({})
     coordinates = []
-    for dic in geo_infos:
+    for dic in dc_infos:
         point = {
-          'coordinates': [dic['geometry']['coordinates'][0], dic['geometry']['coordinates'][1]],
-          'name': dic['properties']['name'],
+          'coordinates': [dic['X'], dic['Y']],
+          'name': dic['USER_Facility_Name'],
           'color': "#FF5733",
-          'label': dic['properties']['name']
+          'label': dic['USER_Facility_Name']
         }
         coordinates.append(point)
     return {"points": coordinates}

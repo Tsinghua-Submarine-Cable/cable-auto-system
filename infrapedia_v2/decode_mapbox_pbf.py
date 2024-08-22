@@ -1,7 +1,11 @@
+import json
+
 from utils import *
 import mapbox_vector_tile
 import re
 from conv_coordinate import vector_tile_coord_to_lonlat
+
+id_set = set()
 
 def map_coordinates(coords, map_func):
     """
@@ -34,11 +38,17 @@ def parse_local_pbf(file_path):
 
         # 遍历图层中的每个要素
         for feature in layer_data['features']:
+            if feature['id'] in id_set:
+                continue
             feature_type = feature['type']
             geometry = feature['geometry']
             properties = feature.get('properties', {})
             geometry['coordinates'] = map_coordinates(geometry['coordinates'], lambda coord: vector_tile_coord_to_lonlat(coord, zoom, tile_x, tile_y))
 
+            f = open(
+                os.path.join('./data', 'data_' + formatted_date, 'decoded_pbf', str(feature['id']) + '.json'), 'w', encoding='utf-8')
+            id_set.add(feature['id'])
+            json.dump(feature, f, indent=4)
             print(f"  Feature Type: {feature_type}")
             print(f"  Properties: {properties}")
             print(f"  Geometry: {geometry}")
@@ -46,9 +56,12 @@ def parse_local_pbf(file_path):
 
 def decode_pbf():
     dir_path = os.path.join('./data', 'data_' + formatted_date)
+    create_path_if_not_exists(os.path.join(dir_path, 'decoded_pbf'))
+
     pbf_files = find_all_file(os.path.join(dir_path, 'pbf'))
+    id_set = set()
     for pbf in pbf_files:
-        pbf_path  = os.path.join(dir_path, 'pbf', pbf)
+        pbf_path = os.path.join(dir_path, 'pbf', pbf)
         print(pbf_path)
         parse_local_pbf(pbf_path)
 
